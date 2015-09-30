@@ -1,0 +1,1955 @@
+started :12/05/2014 13:02:31 
+    Picked Game Parent :DailyDerby
+        Picked Game Component :Daily Derby
+            fill for state :California
+            get division :CA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(15)-name(Daily Derby)-code(DailyDerby)
+            got component :Daily Derby
+            handler picked up :<class 'yoolotto.lottery.game.dailyderby.DailyDerbyGame'>
+            Found Jackpot tag with prize (414000) and attrib date (2014-05-12) 
+            result available (1st:7 Eureka-2nd:2 Lucky Star-3rd:1 Gold Rush, Race Time: 1:42.22) for last draw date (05/11/2014). 
+            draw already exist LotteryDraw id=(12827) of last draw date (2014-05-11)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12828) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot available :414000
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :SuperLottoPlus
+        Picked Game Component :SuperLotto Plus
+            fill for state :California
+            get division :CA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(11)-name(SuperLotto Plus)-code(SuperLottoPlus)
+            got component :SuperLotto Plus
+            handler picked up :<class 'yoolotto.lottery.game.superlottoplus.SuperLottoPlusGame'>
+            Found Jackpot tag with prize (64000000) and attrib date (2014-05-14) 
+            result available (14-20-21-25-31, Mega Ball: 25) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12829) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12830) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :64000000
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :FantasyFive
+        Picked Game Component :Fantasy 5
+            fill for state :California
+            get division :CA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(12)-name(Fantasy Five)-code(FantasyFive)
+            got component :Fantasy 5
+            handler picked up :<class 'yoolotto.lottery.game.fantasyfive.FantasyFiveGame'>
+            Found Jackpot tag with prize (99000) and attrib date (2014-05-12) 
+            result available (11-12-15-20-25) for last draw date (05/11/2014). 
+            draw already exist LotteryDraw id=(12831) of last draw date (2014-05-11)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12832) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot available :99000
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :CashFive
+        Picked Game Component :Cash 5
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(7)-name(Cash Five)-code(CashFive)
+            got component :Cash 5
+            handler picked up :<class 'yoolotto.lottery.game.cashfive.CashFiveGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (01-06-09-15-29) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12833) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12834) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :DailyFour
+        Picked Game Component :Daily 4 Night
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(6)-name(Daily Four)-code(DailyFour)
+            got component :Daily 4 Night
+            handler picked up :<class 'yoolotto.lottery.game.dailyfour.DailyFourGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (7-3-7-0) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12835) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12836) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :Daily 4 Evening
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(6)-name(Daily Four)-code(DailyFour)
+            got component :Daily 4 Evening
+            handler picked up :<class 'yoolotto.lottery.game.dailyfour.DailyFourGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (7-9-5-2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12837) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12838) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :Daily 4 Day
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(6)-name(Daily Four)-code(DailyFour)
+            got component :Daily 4 Day
+            handler picked up :<class 'yoolotto.lottery.game.dailyfour.DailyFourGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (5-6-8-8) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12839) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12840) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :Daily 4 Morning
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(6)-name(Daily Four)-code(DailyFour)
+            got component :Daily 4 Morning
+            handler picked up :<class 'yoolotto.lottery.game.dailyfour.DailyFourGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (0-8-5-9) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12841) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12842) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :Lotto
+        Picked Game Component :Lotto
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(3)-name(Lotto Texas)-code(Lotto)
+            got component :Lotto
+            handler picked up :<class 'yoolotto.lottery.game.lottotexas.LottoTexasGame'>
+            Found Jackpot tag with prize (32000000) and attrib date (2014-05-14) 
+            result available (12-16-22-24-39-41) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12843) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12844) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :32000000
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :DailyThree
+        Picked Game Component :Daily 3 Evening
+            fill for state :California
+            get division :CA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(14)-name(Daily Three)-code(DailyThree)
+            got component :Daily 3 Evening
+            handler picked up :<class 'yoolotto.lottery.game.dailythree.DailyThreeGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (7-8-5) for last draw date (05/11/2014). 
+            draw already exist LotteryDraw id=(12845) of last draw date (2014-05-11)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12846) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :Daily 3 Midday
+            fill for state :California
+            get division :CA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(14)-name(Daily Three)-code(DailyThree)
+            got component :Daily 3 Midday
+            handler picked up :<class 'yoolotto.lottery.game.dailythree.DailyThreeGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (7-5-7) for last draw date (05/11/2014). 
+            draw already exist LotteryDraw id=(12847) of last draw date (2014-05-11)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12848) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :MegaMillions
+        Picked Game Component :MEGA Millions
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12849) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12850) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :New York
+            get division :NY
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12851) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12852) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Arkansas
+            get division :AR
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12853) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12854) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Arizona
+            get division :AZ
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12855) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12856) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Connecticut
+            get division :CT
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12857) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12858) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Dist. of Columbia
+            get division :DC
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12859) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12860) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Delaware
+            get division :DE
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12861) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12862) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Florida
+            get division :FL
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12863) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12864) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Georgia
+            get division :GA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12865) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12866) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Iowa
+            get division :IA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12867) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12868) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Idaho
+            get division :ID
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12869) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12870) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Illinois
+            get division :IL
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12871) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12872) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Indiana
+            get division :IN
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12873) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12874) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Kansas
+            get division :KS
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12875) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12876) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Kentucky
+            get division :KY
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12877) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12878) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Louisiana
+            get division :LA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12879) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12880) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Massachusetts
+            get division :MA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12881) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12882) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Maryland
+            get division :MD
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12883) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12884) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Maine
+            get division :ME
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12885) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12886) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Michigan
+            get division :MI
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12887) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12888) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Missouri
+            get division :MO
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12889) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12890) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :North Carolina
+            get division :NC
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12891) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12892) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :North Dakota
+            get division :ND
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12893) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12894) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Nebraska
+            get division :NE
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12895) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12896) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :New Hampshire
+            get division :NH
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12897) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12898) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :New Jersey
+            get division :NJ
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12899) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12900) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :New Mexico
+            get division :NM
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12901) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12902) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Ohio
+            get division :OH
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12903) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12904) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Oklahoma
+            get division :OK
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12905) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12906) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Oregon
+            get division :OR
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12907) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12908) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Pennsylvania
+            get division :PA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12909) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12910) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :South Carolina
+            get division :SC
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12911) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12912) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :South Dakota
+            get division :SD
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12913) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12914) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Tennessee
+            get division :TN
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12915) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12916) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Virginia
+            get division :VA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12917) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12918) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Vermont
+            get division :VT
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12919) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12920) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Washington
+            get division :WA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12921) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12922) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Wisconsin
+            get division :WI
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12923) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12924) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :West Virginia
+            get division :WV
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12925) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12926) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Rhode Island
+            get division :RI
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12927) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12928) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Minnesota
+            get division :MN
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12929) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12930) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Montana
+            get division :MT
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12931) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12932) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Colorado 
+            get division :CO
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12933) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12934) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :Megaplier
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(2)-name(Mega Millions)-code(MegaMillions)
+            got component :Megaplier
+            handler picked up :<class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (2) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(12935) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(12936) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :TwoStep
+        Picked Game Component :Two Step
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(4)-name(Two Step)-code(TwoStep)
+            got component :Two Step
+            handler picked up :<class 'yoolotto.lottery.game.twostep.TwoStepGame'>
+            Found Jackpot tag with prize (225000) and attrib date (2014-05-12) 
+            result available (01-04-10-29, Bonus: 21) for last draw date (05/08/2014). 
+            draw already exist LotteryDraw id=(12822) of last draw date (2014-05-08)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(12937) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot available :225000
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :Powerball
+        Picked Game Component :Powerball
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12938) of last draw date (2014-05-10)
+            found powerplay :[2]
+            powerplay draw (id=12939) updated for existing last draw date :2014-05-10
+            powerball draw result saved (draw id=12938) 
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12940) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :New York
+            get division :NY
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12941) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12942) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Arkansas
+            get division :AR
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12943) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12944) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Arizona
+            get division :AZ
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12945) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12946) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Connecticut
+            get division :CT
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12947) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12948) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Dist. of Columbia
+            get division :DC
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12949) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12950) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Delaware
+            get division :DE
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12951) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12952) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Florida
+            get division :FL
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12953) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12954) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Georgia
+            get division :GA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12955) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12956) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Iowa
+            get division :IA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12957) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12958) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Idaho
+            get division :ID
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12959) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12960) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Illinois
+            get division :IL
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12961) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12962) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Indiana
+            get division :IN
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12963) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12964) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Kansas
+            get division :KS
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12965) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12966) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Kentucky
+            get division :KY
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12967) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12968) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Louisiana
+            get division :LA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12969) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12970) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Massachusetts
+            get division :MA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12971) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12972) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Maryland
+            get division :MD
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12973) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12974) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Maine
+            get division :ME
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12975) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12976) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Michigan
+            get division :MI
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12977) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12978) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Missouri
+            get division :MO
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12979) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12980) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :North Carolina
+            get division :NC
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12981) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12982) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :North Dakota
+            get division :ND
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12983) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12984) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Nebraska
+            get division :NE
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12985) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12986) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :New Hampshire
+            get division :NH
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12987) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12988) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :New Jersey
+            get division :NJ
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12989) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12990) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :New Mexico
+            get division :NM
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12991) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12992) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Ohio
+            get division :OH
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12993) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12994) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Oklahoma
+            get division :OK
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12995) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12996) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Oregon
+            get division :OR
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12997) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(12998) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Pennsylvania
+            get division :PA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(12999) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13000) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :South Carolina
+            get division :SC
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13001) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13002) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :South Dakota
+            get division :SD
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13003) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13004) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Tennessee
+            get division :TN
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13005) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13006) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Virginia
+            get division :VA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13007) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13008) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Vermont
+            get division :VT
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13009) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13010) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Washington
+            get division :WA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13011) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13012) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Wisconsin
+            get division :WI
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13013) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13014) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :West Virginia
+            get division :WV
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13015) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13016) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Rhode Island
+            get division :RI
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13017) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13018) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Minnesota
+            get division :MN
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13019) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13020) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Montana
+            get division :MT
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13021) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13022) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+            fill for state :Colorado 
+            get division :CO
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(1)-name(Powerball)-code(Powerball)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13023) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13024) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :PowerballCA
+        Picked Game Component :Powerball
+            fill for state :California
+            get division :CA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(9)-name(Powerball)-code(PowerballCA)
+            got component :Powerball
+            handler picked up :<class 'yoolotto.lottery.game.powerballca.CAPowerballGame'>
+            Found Jackpot tag with prize (90000000) and attrib date (2014-05-14) 
+            result available (04-31-41-47-55, Powerball: 01, Power Play: 2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13025) of last draw date (2014-05-10)
+            Next draw available for date :05/14/2014 
+            draw already exist LotteryDraw id=(13026) for next draw date (2014-05-14) 
+            prepared for frenzy notification for next draw date (2014-05-14) 
+            next draw jackpot available :90000000
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :PickThree
+        Picked Game Component :Pick 3 Evening
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(5)-name(Pick Three)-code(PickThree)
+            got component :Pick 3 Evening
+            handler picked up :<class 'yoolotto.lottery.game.pickthree.PickThreeGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (4-6-8) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13027) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13028) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :Pick 3 Day
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(5)-name(Pick Three)-code(PickThree)
+            got component :Pick 3 Day
+            handler picked up :<class 'yoolotto.lottery.game.pickthree.PickThreeGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (5-3-0) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13029) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13030) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :Pick 3 Morning
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(5)-name(Pick Three)-code(PickThree)
+            got component :Pick 3 Morning
+            handler picked up :<class 'yoolotto.lottery.game.pickthree.PickThreeGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (1-3-2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13031) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13032) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :Pick 3 Night
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(5)-name(Pick Three)-code(PickThree)
+            got component :Pick 3 Night
+            handler picked up :<class 'yoolotto.lottery.game.pickthree.PickThreeGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (9-8-2) for last draw date (05/10/2014). 
+            draw already exist LotteryDraw id=(13033) of last draw date (2014-05-10)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13034) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :DailyFor
+        Picked Game Component :Daily 4
+            fill for state :California
+            get division :CA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(13)-name(Daily Four)-code(DailyFor)
+            got component :Daily 4
+            handler picked up :<class 'yoolotto.lottery.game.dailyfor.CADailyFourGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (8-5-1-5) for last draw date (05/11/2014). 
+            draw already exist LotteryDraw id=(13035) of last draw date (2014-05-11)
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13036) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :AllOrNothing
+        Picked Game Component :All or Nothing Night
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(8)-name(All or Nothing)-code(AllOrNothing)
+            got component :All or Nothing Night
+            handler picked up :<class 'yoolotto.lottery.game.allornothing.AllOrNothingGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (01-03-04-07-08-09-11-13-14-18-21-23) for last draw date (05/10/2014). 
+          ndler picked up :<cl  Assume fix jackpot prize of (250000). 
+            draw already exist LotteryDraw id=(13037) of last draw date (2014-05-10)
+            found old jackpot of last draw date (2014-05-10) 
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13038) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :All or Nothing Day
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(8)-name(All or Nothing)-code(AllOrNothing)
+            got component :All or Nothing Day
+            handler picked up :<class 'yoolotto.lottery.game.allornothing.AllOrNothingGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (02-04-05-07-08-09-15-17-19-20-22-24) for last draw date (05/10/2014). 
+          ndler picked up :<cl  Assume fix jackpot prize of (250000). 
+            draw already exist LotteryDraw id=(13039) of last draw date (2014-05-10)
+            found old jackpot of last draw date (2014-05-10) 
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13040) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :All or Nothing Morning
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(8)-name(All or Nothing)-code(AllOrNothing)
+            got component :All or Nothing Morning
+            handler picked up :<class 'yoolotto.lottery.game.allornothing.AllOrNothingGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (02-03-08-09-10-13-15-17-18-21-23-24) for last draw date (05/10/2014). 
+          ndler picked up :<cl  Assume fix jackpot prize of (250000). 
+            draw already exist LotteryDraw id=(13041) of last draw date (2014-05-10)
+            found old jackpot of last draw date (2014-05-10) 
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13042) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+        Picked Game Component :All or Nothing Evening
+            fill for state :Texas
+            get division :TX
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(8)-name(All or Nothing)-code(AllOrNothing)
+            got component :All or Nothing Evening
+            handler picked up :<class 'yoolotto.lottery.game.allornothing.AllOrNothingGame'>
+            Jackpot tag not found.(assume normal) 
+            result available (02-03-05-10-12-14-15-16-19-20-22-23) for last draw date (05/10/2014). 
+          ndler picked up :<cl  Assume fix jackpot prize of (250000). 
+            draw already exist LotteryDraw id=(13043) of last draw date (2014-05-10)
+            found old jackpot of last draw date (2014-05-10) 
+            Next draw available for date :05/12/2014 
+            draw already exist LotteryDraw id=(13044) for next draw date (2014-05-12) 
+            prepared for frenzy notification for next draw date (2014-05-12) 
+            next draw jackpot not filled 
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+    Picked Game Parent :MegaMillionsCA
+        Picked Game Component :MEGA Millions
+            fill for state :California
+            get division :CA
+            Is valid component for state ? :True
+            Has component meta ? :True
+            got component parent :id(10)-name(MEGA Millions)-code(MegaMillionsCA)
+            got component :MEGA Millions
+            handler picked up :<class 'yoolotto.lottery.game.megamillionsca.CAMegaMillionsGame'>
+            Found Jackpot tag with prize (121000000) and attrib date (2014-05-13) 
+            result available (10-28-39-51-59, Mega Ball: 14) for last draw date (05/09/2014). 
+            draw already exist LotteryDraw id=(13045) of last draw date (2014-05-09)
+            Next draw available for date :05/13/2014 
+            draw already exist LotteryDraw id=(13046) for next draw date (2014-05-13) 
+            prepared for frenzy notification for next draw date (2014-05-13) 
+            next draw jackpot available :121000000
+            next draw saved 
+
+                --------------------------------------------
+
+        --------------------------------------------
+
+------------------------DONE--------------------

@@ -1,0 +1,2460 @@
+Starting yoolotto as root
+2014-04-05 10:58:13 [9452] [INFO] Starting gunicorn 18.0
+2014-04-05 10:58:13 [9452] [INFO] Listening at: http://127.0.0.1:8000 (9452)
+2014-04-05 10:58:13 [9452] [INFO] Using worker: sync
+2014-04-05 10:58:13 [9463] [INFO] Booting worker with pid: 9463
+2014-04-05 10:58:13 [9464] [INFO] Booting worker with pid: 9464
+2014-04-05 10:58:13 [9465] [INFO] Booting worker with pid: 9465
+Starting yoolotto as root
+2014-04-05 11:03:26 [9532] [INFO] Starting gunicorn 18.0
+2014-04-05 11:03:26 [9532] [INFO] Listening at: http://127.0.0.1:8000 (9532)
+2014-04-05 11:03:26 [9532] [INFO] Using worker: sync
+2014-04-05 11:03:26 [9543] [INFO] Booting worker with pid: 9543
+2014-04-05 11:03:27 [9544] [INFO] Booting worker with pid: 9544
+2014-04-05 11:03:27 [9545] [INFO] Booting worker with pid: 9545
+Starting yoolotto as root
+2014-04-07 05:53:09 [12836] [INFO] Starting gunicorn 18.0
+2014-04-07 05:53:09 [12836] [INFO] Listening at: http://127.0.0.1:8000 (12836)
+2014-04-07 05:53:09 [12836] [INFO] Using worker: sync
+2014-04-07 05:53:09 [12847] [INFO] Booting worker with pid: 12847
+2014-04-07 05:53:10 [12848] [INFO] Booting worker with pid: 12848
+2014-04-07 05:53:10 [12849] [INFO] Booting worker with pid: 12849
+Starting yoolotto as root
+2014-04-07 07:47:08 [14200] [INFO] Starting gunicorn 18.0
+2014-04-07 07:47:08 [14200] [INFO] Listening at: http://127.0.0.1:8000 (14200)
+2014-04-07 07:47:08 [14200] [INFO] Using worker: sync
+2014-04-07 07:47:08 [14211] [INFO] Booting worker with pid: 14211
+2014-04-07 07:47:08 [14212] [INFO] Booting worker with pid: 14212
+2014-04-07 07:47:09 [14213] [INFO] Booting worker with pid: 14213
+Starting yoolotto as root
+2014-04-07 09:22:44 [14984] [INFO] Starting gunicorn 18.0
+2014-04-07 09:22:44 [14984] [INFO] Listening at: http://127.0.0.1:8000 (14984)
+2014-04-07 09:22:45 [14984] [INFO] Using worker: sync
+2014-04-07 09:22:45 [14995] [INFO] Booting worker with pid: 14995
+2014-04-07 09:22:45 [14996] [INFO] Booting worker with pid: 14996
+2014-04-07 09:22:45 [14997] [INFO] Booting worker with pid: 14997
+Starting yoolotto as root
+2014-04-07 09:50:47 [15318] [INFO] Starting gunicorn 18.0
+2014-04-07 09:50:47 [15318] [INFO] Listening at: http://127.0.0.1:8000 (15318)
+2014-04-07 09:50:47 [15318] [INFO] Using worker: sync
+2014-04-07 09:50:47 [15329] [INFO] Booting worker with pid: 15329
+2014-04-07 09:50:47 [15330] [INFO] Booting worker with pid: 15330
+2014-04-07 09:50:47 [15331] [INFO] Booting worker with pid: 15331
+Starting yoolotto as root
+2014-04-07 09:58:33 [15806] [INFO] Starting gunicorn 18.0
+2014-04-07 09:58:33 [15806] [INFO] Listening at: http://127.0.0.1:8000 (15806)
+2014-04-07 09:58:33 [15806] [INFO] Using worker: sync
+2014-04-07 09:58:33 [15817] [INFO] Booting worker with pid: 15817
+2014-04-07 09:58:33 [15818] [INFO] Booting worker with pid: 15818
+2014-04-07 09:58:33 [15819] [INFO] Booting worker with pid: 15819
+Starting yoolotto as root
+2014-04-07 13:38:23 [14058] [INFO] Starting gunicorn 18.0
+2014-04-07 13:38:23 [14058] [INFO] Listening at: http://127.0.0.1:8000 (14058)
+2014-04-07 13:38:23 [14058] [INFO] Using worker: sync
+2014-04-07 13:38:23 [14069] [INFO] Booting worker with pid: 14069
+2014-04-07 13:38:23 [14070] [INFO] Booting worker with pid: 14070
+2014-04-07 13:38:23 [14071] [INFO] Booting worker with pid: 14071
+Starting yoolotto as root
+2014-04-09 06:17:07 [16839] [INFO] Starting gunicorn 18.0
+2014-04-09 06:17:07 [16839] [INFO] Listening at: http://127.0.0.1:8000 (16839)
+2014-04-09 06:17:07 [16839] [INFO] Using worker: sync
+2014-04-09 06:17:07 [16850] [INFO] Booting worker with pid: 16850
+2014-04-09 06:17:07 [16851] [INFO] Booting worker with pid: 16851
+2014-04-09 06:17:07 [16852] [INFO] Booting worker with pid: 16852
+Starting yoolotto as root
+2014-04-09 07:10:38 [17546] [INFO] Starting gunicorn 18.0
+2014-04-09 07:10:38 [17546] [INFO] Listening at: http://127.0.0.1:8000 (17546)
+2014-04-09 07:10:38 [17546] [INFO] Using worker: sync
+2014-04-09 07:10:38 [17557] [INFO] Booting worker with pid: 17557
+2014-04-09 07:10:38 [17558] [INFO] Booting worker with pid: 17558
+2014-04-09 07:10:39 [17559] [INFO] Booting worker with pid: 17559
+Starting yoolotto as root
+2014-04-14 13:00:49 [29221] [INFO] Starting gunicorn 18.0
+2014-04-14 13:00:49 [29221] [INFO] Listening at: http://127.0.0.1:8000 (29221)
+2014-04-14 13:00:49 [29221] [INFO] Using worker: sync
+2014-04-14 13:00:49 [29232] [INFO] Booting worker with pid: 29232
+2014-04-14 13:00:49 [29233] [INFO] Booting worker with pid: 29233
+2014-04-14 13:00:49 [29234] [INFO] Booting worker with pid: 29234
+2014-04-17 10:25:35 [29221] [CRITICAL] WORKER TIMEOUT (pid:29232)
+2014-04-17 10:25:35 [29221] [CRITICAL] WORKER TIMEOUT (pid:29232)
+2014-04-17 10:25:35 [1957] [INFO] Booting worker with pid: 1957
+2014-04-17 10:26:27 [29221] [CRITICAL] WORKER TIMEOUT (pid:29234)
+2014-04-17 10:26:27 [29221] [CRITICAL] WORKER TIMEOUT (pid:29234)
+2014-04-17 10:26:27 [1964] [INFO] Booting worker with pid: 1964
+2014-04-17 10:27:02 [29221] [CRITICAL] WORKER TIMEOUT (pid:1957)
+2014-04-17 10:27:02 [29221] [CRITICAL] WORKER TIMEOUT (pid:1957)
+2014-04-17 10:27:02 [1965] [INFO] Booting worker with pid: 1965
+2014-04-17 10:27:35 [29221] [CRITICAL] WORKER TIMEOUT (pid:1964)
+2014-04-17 10:27:35 [29221] [CRITICAL] WORKER TIMEOUT (pid:1964)
+2014-04-17 10:27:35 [1972] [INFO] Booting worker with pid: 1972
+2014-04-17 10:28:13 [29221] [CRITICAL] WORKER TIMEOUT (pid:29233)
+2014-04-17 10:28:13 [29221] [CRITICAL] WORKER TIMEOUT (pid:29233)
+2014-04-17 10:28:13 [1973] [INFO] Booting worker with pid: 1973
+2014-04-17 10:28:54 [29221] [CRITICAL] WORKER TIMEOUT (pid:1972)
+2014-04-17 10:28:54 [29221] [CRITICAL] WORKER TIMEOUT (pid:1972)
+2014-04-17 10:28:54 [1980] [INFO] Booting worker with pid: 1980
+Starting yoolotto as root
+2014-04-19 07:44:39 [5239] [INFO] Starting gunicorn 18.0
+2014-04-19 07:44:39 [5239] [INFO] Listening at: http://127.0.0.1:8000 (5239)
+2014-04-19 07:44:39 [5239] [INFO] Using worker: sync
+2014-04-19 07:44:39 [5250] [INFO] Booting worker with pid: 5250
+2014-04-19 07:44:39 [5251] [INFO] Booting worker with pid: 5251
+2014-04-19 07:44:39 [5252] [INFO] Booting worker with pid: 5252
+Starting yoolotto as root
+2014-04-19 07:45:10 [5259] [INFO] Starting gunicorn 18.0
+2014-04-19 07:45:10 [5259] [INFO] Listening at: http://127.0.0.1:8000 (5259)
+2014-04-19 07:45:10 [5259] [INFO] Using worker: sync
+2014-04-19 07:45:10 [5270] [INFO] Booting worker with pid: 5270
+2014-04-19 07:45:10 [5271] [INFO] Booting worker with pid: 5271
+2014-04-19 07:45:10 [5272] [INFO] Booting worker with pid: 5272
+2014-04-19 07:45:22 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:45:30 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:45:41 [5270] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:46:02 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:46:05 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:46:38 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:48:59 [5270] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:49:02 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:10 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:10 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:14 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:14 [5270] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:18 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:18 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:20 [5270] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:20 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:28 [5270] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:28 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:32 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:32 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:56 [5270] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:50:56 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:51:19 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:51:19 [5270] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:51:22 [5271] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:51:22 [5272] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+Starting yoolotto as root
+2014-04-19 07:55:33 [5491] [INFO] Starting gunicorn 18.0
+2014-04-19 07:55:33 [5491] [INFO] Listening at: http://127.0.0.1:8000 (5491)
+2014-04-19 07:55:33 [5491] [INFO] Using worker: sync
+2014-04-19 07:55:33 [5502] [INFO] Booting worker with pid: 5502
+2014-04-19 07:55:33 [5503] [INFO] Booting worker with pid: 5503
+2014-04-19 07:55:33 [5504] [INFO] Booting worker with pid: 5504
+2014-04-19 07:55:40 [5504] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:57:03 [5504] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:57:06 [5502] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+2014-04-19 07:57:11 [5503] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 7, in <module>
+    from termcolor import colored
+ImportError: No module named termcolor
+Starting yoolotto as root
+2014-04-19 08:05:05 [5631] [INFO] Starting gunicorn 18.0
+2014-04-19 08:05:05 [5631] [INFO] Listening at: http://127.0.0.1:8000 (5631)
+2014-04-19 08:05:05 [5631] [INFO] Using worker: sync
+2014-04-19 08:05:05 [5642] [INFO] Booting worker with pid: 5642
+2014-04-19 08:05:06 [5643] [INFO] Booting worker with pid: 5643
+2014-04-19 08:05:06 [5644] [INFO] Booting worker with pid: 5644
+Starting yoolotto as root
+2014-04-21 08:23:14 [11887] [INFO] Starting gunicorn 18.0
+2014-04-21 08:23:14 [11887] [INFO] Listening at: http://127.0.0.1:8000 (11887)
+2014-04-21 08:23:14 [11887] [INFO] Using worker: sync
+2014-04-21 08:23:14 [11898] [INFO] Booting worker with pid: 11898
+2014-04-21 08:23:14 [11899] [INFO] Booting worker with pid: 11899
+2014-04-21 08:23:14 [11900] [INFO] Booting worker with pid: 11900
+Starting yoolotto as root
+2014-04-21 09:12:55 [2301] [INFO] Starting gunicorn 18.0
+2014-04-21 09:12:55 [2301] [INFO] Listening at: http://127.0.0.1:8000 (2301)
+2014-04-21 09:12:55 [2301] [INFO] Using worker: sync
+2014-04-21 09:12:55 [2343] [INFO] Booting worker with pid: 2343
+2014-04-21 09:12:55 [2344] [INFO] Booting worker with pid: 2344
+2014-04-21 09:12:55 [2345] [INFO] Booting worker with pid: 2345
+Starting yoolotto as root
+2014-04-21 09:19:39 [3127] [INFO] Starting gunicorn 18.0
+2014-04-21 09:19:39 [3127] [INFO] Listening at: http://127.0.0.1:8000 (3127)
+2014-04-21 09:19:39 [3127] [INFO] Using worker: sync
+2014-04-21 09:19:39 [3138] [INFO] Booting worker with pid: 3138
+2014-04-21 09:19:39 [3139] [INFO] Booting worker with pid: 3139
+2014-04-21 09:19:39 [3140] [INFO] Booting worker with pid: 3140
+Starting yoolotto as root
+2014-04-21 12:06:10 [1831] [INFO] Starting gunicorn 18.0
+2014-04-21 12:06:10 [1831] [INFO] Listening at: http://127.0.0.1:8000 (1831)
+2014-04-21 12:06:10 [1831] [INFO] Using worker: sync
+2014-04-21 12:06:10 [1842] [INFO] Booting worker with pid: 1842
+2014-04-21 12:06:11 [1843] [INFO] Booting worker with pid: 1843
+2014-04-21 12:06:11 [1844] [INFO] Booting worker with pid: 1844
+Starting yoolotto as root
+2014-04-21 12:06:44 [1847] [INFO] Starting gunicorn 18.0
+2014-04-21 12:06:44 [1847] [INFO] Listening at: http://127.0.0.1:8000 (1847)
+2014-04-21 12:06:44 [1847] [INFO] Using worker: sync
+2014-04-21 12:06:44 [1858] [INFO] Booting worker with pid: 1858
+2014-04-21 12:06:44 [1859] [INFO] Booting worker with pid: 1859
+2014-04-21 12:06:44 [1860] [INFO] Booting worker with pid: 1860
+Starting yoolotto as root
+2014-04-21 14:32:32 [3761] [INFO] Starting gunicorn 18.0
+2014-04-21 14:32:32 [3761] [INFO] Listening at: http://127.0.0.1:8000 (3761)
+2014-04-21 14:32:32 [3761] [INFO] Using worker: sync
+2014-04-21 14:32:32 [3772] [INFO] Booting worker with pid: 3772
+2014-04-21 14:32:32 [3773] [INFO] Booting worker with pid: 3773
+2014-04-21 14:32:32 [3774] [INFO] Booting worker with pid: 3774
+Starting yoolotto as root
+2014-04-21 14:54:30 [1049] [INFO] Starting gunicorn 18.0
+2014-04-21 14:54:30 [1049] [INFO] Listening at: http://127.0.0.1:8000 (1049)
+2014-04-21 14:54:30 [1049] [INFO] Using worker: sync
+2014-04-21 14:54:30 [1092] [INFO] Booting worker with pid: 1092
+2014-04-21 14:54:30 [1093] [INFO] Booting worker with pid: 1093
+2014-04-21 14:54:30 [1094] [INFO] Booting worker with pid: 1094
+Starting yoolotto as root
+2014-04-21 15:00:52 [1654] [INFO] Starting gunicorn 18.0
+2014-04-21 15:00:52 [1654] [INFO] Listening at: http://127.0.0.1:8000 (1654)
+2014-04-21 15:00:52 [1654] [INFO] Using worker: sync
+2014-04-21 15:00:52 [1665] [INFO] Booting worker with pid: 1665
+2014-04-21 15:00:52 [1666] [INFO] Booting worker with pid: 1666
+2014-04-21 15:00:52 [1667] [INFO] Booting worker with pid: 1667
+Starting yoolotto as root
+2014-04-21 18:47:23 [2306] [INFO] Starting gunicorn 18.0
+2014-04-21 18:47:23 [2306] [INFO] Listening at: http://127.0.0.1:8000 (2306)
+2014-04-21 18:47:23 [2306] [INFO] Using worker: sync
+2014-04-21 18:47:23 [2317] [INFO] Booting worker with pid: 2317
+2014-04-21 18:47:23 [2318] [INFO] Booting worker with pid: 2318
+2014-04-21 18:47:23 [2319] [INFO] Booting worker with pid: 2319
+Starting yoolotto as root
+2014-04-22 06:35:13 [3273] [INFO] Starting gunicorn 18.0
+2014-04-22 06:35:13 [3273] [INFO] Listening at: http://127.0.0.1:8000 (3273)
+2014-04-22 06:35:13 [3273] [INFO] Using worker: sync
+2014-04-22 06:35:13 [3284] [INFO] Booting worker with pid: 3284
+2014-04-22 06:35:13 [3285] [INFO] Booting worker with pid: 3285
+2014-04-22 06:35:13 [3286] [INFO] Booting worker with pid: 3286
+2014-04-22 06:35:25 [3286] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:35:53 [3284] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:35:53 [3285] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:35:54 [3286] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:35:55 [3286] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:35:58 [3285] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:36:02 [3284] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:36:04 [3285] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+Starting yoolotto as root
+2014-04-22 06:36:11 [3301] [INFO] Starting gunicorn 18.0
+2014-04-22 06:36:11 [3301] [INFO] Listening at: http://127.0.0.1:8000 (3301)
+2014-04-22 06:36:11 [3301] [INFO] Using worker: sync
+2014-04-22 06:36:11 [3312] [INFO] Booting worker with pid: 3312
+2014-04-22 06:36:11 [3313] [INFO] Booting worker with pid: 3313
+2014-04-22 06:36:11 [3314] [INFO] Booting worker with pid: 3314
+2014-04-22 06:36:15 [3312] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:36:18 [3314] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:36:26 [3312] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:36:34 [3313] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:37:07 [3312] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+2014-04-22 06:37:19 [3314] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/admin.py", line 2, in <module>
+    from yoolotto.coupon.models import *
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 95, in <module>
+    class Coupon(models.Model):
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/coupon/models.py", line 97, in Coupon
+    image = forms.ImageField(blank=True, null=True)
+NameError: name 'forms' is not defined
+Starting yoolotto as root
+2014-04-22 06:37:40 [3329] [INFO] Starting gunicorn 18.0
+2014-04-22 06:37:40 [3329] [INFO] Listening at: http://127.0.0.1:8000 (3329)
+2014-04-22 06:37:40 [3329] [INFO] Using worker: sync
+2014-04-22 06:37:40 [3340] [INFO] Booting worker with pid: 3340
+2014-04-22 06:37:40 [3341] [INFO] Booting worker with pid: 3341
+2014-04-22 06:37:40 [3342] [INFO] Booting worker with pid: 3342
+Starting yoolotto as root
+2014-04-22 06:40:45 [3363] [INFO] Starting gunicorn 18.0
+2014-04-22 06:40:45 [3363] [INFO] Listening at: http://127.0.0.1:8000 (3363)
+2014-04-22 06:40:45 [3363] [INFO] Using worker: sync
+2014-04-22 06:40:45 [3374] [INFO] Booting worker with pid: 3374
+2014-04-22 06:40:45 [3375] [INFO] Booting worker with pid: 3375
+2014-04-22 06:40:45 [3376] [INFO] Booting worker with pid: 3376
+Starting yoolotto as root
+2014-04-22 06:48:46 [3397] [INFO] Starting gunicorn 18.0
+2014-04-22 06:48:46 [3397] [INFO] Listening at: http://127.0.0.1:8000 (3397)
+2014-04-22 06:48:46 [3397] [INFO] Using worker: sync
+2014-04-22 06:48:46 [3408] [INFO] Booting worker with pid: 3408
+2014-04-22 06:48:46 [3409] [INFO] Booting worker with pid: 3409
+2014-04-22 06:48:46 [3410] [INFO] Booting worker with pid: 3410
+Starting yoolotto as root
+2014-04-22 07:38:39 [4054] [INFO] Starting gunicorn 18.0
+2014-04-22 07:38:40 [4054] [INFO] Listening at: http://127.0.0.1:8000 (4054)
+2014-04-22 07:38:40 [4054] [INFO] Using worker: sync
+2014-04-22 07:38:40 [4065] [INFO] Booting worker with pid: 4065
+2014-04-22 07:38:40 [4066] [INFO] Booting worker with pid: 4066
+2014-04-22 07:38:40 [4067] [INFO] Booting worker with pid: 4067
+Starting yoolotto as root
+2014-04-22 10:34:22 [5449] [INFO] Starting gunicorn 18.0
+2014-04-22 10:34:22 [5449] [INFO] Listening at: http://127.0.0.1:8000 (5449)
+2014-04-22 10:34:22 [5449] [INFO] Using worker: sync
+2014-04-22 10:34:22 [5460] [INFO] Booting worker with pid: 5460
+2014-04-22 10:34:23 [5461] [INFO] Booting worker with pid: 5461
+2014-04-22 10:34:23 [5462] [INFO] Booting worker with pid: 5462
+Starting yoolotto as root
+2014-04-22 10:48:14 [5483] [INFO] Starting gunicorn 18.0
+2014-04-22 10:48:14 [5483] [INFO] Listening at: http://127.0.0.1:8000 (5483)
+2014-04-22 10:48:14 [5483] [INFO] Using worker: sync
+2014-04-22 10:48:14 [5494] [INFO] Booting worker with pid: 5494
+2014-04-22 10:48:14 [5495] [INFO] Booting worker with pid: 5495
+2014-04-22 10:48:14 [5496] [INFO] Booting worker with pid: 5496
+Starting yoolotto as root
+2014-04-22 19:16:05 [8132] [INFO] Starting gunicorn 18.0
+2014-04-22 19:16:05 [8132] [INFO] Listening at: http://127.0.0.1:8000 (8132)
+2014-04-22 19:16:05 [8132] [INFO] Using worker: sync
+2014-04-22 19:16:05 [8143] [INFO] Booting worker with pid: 8143
+2014-04-22 19:16:05 [8144] [INFO] Booting worker with pid: 8144
+2014-04-22 19:16:05 [8145] [INFO] Booting worker with pid: 8145
+Starting yoolotto as root
+2014-04-22 20:19:10 [8970] [INFO] Starting gunicorn 18.0
+2014-04-22 20:19:10 [8970] [INFO] Listening at: http://127.0.0.1:8000 (8970)
+2014-04-22 20:19:10 [8970] [INFO] Using worker: sync
+2014-04-22 20:19:10 [8981] [INFO] Booting worker with pid: 8981
+2014-04-22 20:19:10 [8982] [INFO] Booting worker with pid: 8982
+2014-04-22 20:19:10 [8983] [INFO] Booting worker with pid: 8983
+Starting yoolotto as root
+2014-04-22 20:47:27 [9052] [INFO] Starting gunicorn 18.0
+2014-04-22 20:47:27 [9052] [INFO] Listening at: http://127.0.0.1:8000 (9052)
+2014-04-22 20:47:27 [9052] [INFO] Using worker: sync
+2014-04-22 20:47:27 [9063] [INFO] Booting worker with pid: 9063
+2014-04-22 20:47:27 [9064] [INFO] Booting worker with pid: 9064
+2014-04-22 20:47:27 [9065] [INFO] Booting worker with pid: 9065
+Starting yoolotto as root
+2014-04-22 20:49:26 [9087] [INFO] Starting gunicorn 18.0
+2014-04-22 20:49:26 [9087] [INFO] Listening at: http://127.0.0.1:8000 (9087)
+2014-04-22 20:49:26 [9087] [INFO] Using worker: sync
+2014-04-22 20:49:26 [9098] [INFO] Booting worker with pid: 9098
+2014-04-22 20:49:26 [9099] [INFO] Booting worker with pid: 9099
+2014-04-22 20:49:26 [9100] [INFO] Booting worker with pid: 9100
+Starting yoolotto as root
+2014-04-23 10:47:56 [12324] [INFO] Starting gunicorn 18.0
+2014-04-23 10:47:56 [12324] [INFO] Listening at: http://127.0.0.1:8000 (12324)
+2014-04-23 10:47:56 [12324] [INFO] Using worker: sync
+2014-04-23 10:47:56 [12335] [INFO] Booting worker with pid: 12335
+2014-04-23 10:47:56 [12336] [INFO] Booting worker with pid: 12336
+2014-04-23 10:47:56 [12337] [INFO] Booting worker with pid: 12337
+2014-04-23 10:48:06 [12335] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+2014-04-23 10:48:11 [12337] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+2014-04-23 10:48:12 [12335] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+2014-04-23 10:48:13 [12336] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+2014-04-23 10:48:24 [12337] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+2014-04-23 10:48:24 [12335] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+2014-04-23 10:48:49 [12336] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+2014-04-23 10:48:49 [12335] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+2014-04-23 10:48:51 [12337] [ERROR] Error handling request
+Traceback (most recent call last):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 131, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/wsgi.py", line 255, in __call__
+    response = self.get_response(request)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 178, in get_response
+    response = self.handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 220, in handle_uncaught_exception
+    if resolver.urlconf_module is None:
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/core/urlresolvers.py", line 342, in urlconf_module
+    self._urlconf_module = import_module(self.urlconf_name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/urls.py", line 8, in <module>
+    admin.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 29, in autodiscover
+    import_module('%s.admin' % app)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 270, in <module>
+    class PeriodicTaskAdmin(admin.ModelAdmin):
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 272, in PeriodicTaskAdmin
+    form = periodic_task_form()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/admin.py", line 242, in periodic_task_form
+    current_app.loader.import_default_modules()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 138, in import_default_modules
+    self.autodiscover()
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 141, in autodiscover
+    self.task_modules.update(mod.__name__ for mod in autodiscover() or ())
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 176, in autodiscover
+    for app in settings.INSTALLED_APPS])
+  File "/home/ubuntu/current/yobackend/local/lib/python2.7/site-packages/djcelery/loaders.py", line 195, in find_related_module
+    return importlib.import_module('%s.%s' % (app, related_name))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/tasks.py", line 8, in <module>
+    from yoolotto.lottery.feed.draw_common_importer import LotteryCommonDrawImporter,\
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/feed/draw_common_importer.py", line 8, in <module>
+    from yoolotto.lottery.game.manager import GameManager
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/manager.py", line 16, in <module>
+    from yoolotto.lottery.game import powerball
+  File "/home/ubuntu/current/yobackend/yoolotto/yoolotto/lottery/game/powerball.py", line 91
+    raise LotteryResultsInvalidException("Please enter valid white ball number")
+   ^
+IndentationError: unexpected indent
+Starting yoolotto as root
+2014-04-23 12:10:03 [13302] [INFO] Starting gunicorn 18.0
+2014-04-23 12:10:03 [13302] [INFO] Listening at: http://127.0.0.1:8000 (13302)
+2014-04-23 12:10:03 [13302] [INFO] Using worker: sync
+2014-04-23 12:10:03 [13313] [INFO] Booting worker with pid: 13313
+2014-04-23 12:10:03 [13314] [INFO] Booting worker with pid: 13314
+2014-04-23 12:10:03 [13315] [INFO] Booting worker with pid: 13315
+Starting yoolotto as root
+2014-04-23 12:37:06 [13341] [INFO] Starting gunicorn 18.0
+2014-04-23 12:37:06 [13341] [INFO] Listening at: http://127.0.0.1:8000 (13341)
+2014-04-23 12:37:06 [13341] [INFO] Using worker: sync
+2014-04-23 12:37:06 [13352] [INFO] Booting worker with pid: 13352
+2014-04-23 12:37:06 [13353] [INFO] Booting worker with pid: 13353
+2014-04-23 12:37:06 [13354] [INFO] Booting worker with pid: 13354
+Starting yoolotto as root
+2014-04-23 13:19:53 [13380] [INFO] Starting gunicorn 18.0
+2014-04-23 13:19:53 [13380] [INFO] Listening at: http://127.0.0.1:8000 (13380)
+2014-04-23 13:19:53 [13380] [INFO] Using worker: sync
+2014-04-23 13:19:53 [13391] [INFO] Booting worker with pid: 13391
+2014-04-23 13:19:53 [13392] [INFO] Booting worker with pid: 13392
+2014-04-23 13:19:53 [13393] [INFO] Booting worker with pid: 13393
+Starting yoolotto as root
+2014-04-23 13:23:57 [13415] [INFO] Starting gunicorn 18.0
+2014-04-23 13:23:57 [13415] [INFO] Listening at: http://127.0.0.1:8000 (13415)
+2014-04-23 13:23:57 [13415] [INFO] Using worker: sync
+2014-04-23 13:23:57 [13426] [INFO] Booting worker with pid: 13426
+2014-04-23 13:23:57 [13427] [INFO] Booting worker with pid: 13427
+2014-04-23 13:23:57 [13428] [INFO] Booting worker with pid: 13428
+Starting yoolotto as root
+2014-04-23 14:43:51 [14464] [INFO] Starting gunicorn 18.0
+2014-04-23 14:43:51 [14464] [INFO] Listening at: http://127.0.0.1:8000 (14464)
+2014-04-23 14:43:51 [14464] [INFO] Using worker: sync
+2014-04-23 14:43:51 [14475] [INFO] Booting worker with pid: 14475
+2014-04-23 14:43:51 [14476] [INFO] Booting worker with pid: 14476
+2014-04-23 14:43:51 [14477] [INFO] Booting worker with pid: 14477
+Starting yoolotto as root
+2014-04-23 14:51:13 [14571] [INFO] Starting gunicorn 18.0
+2014-04-23 14:51:13 [14571] [INFO] Listening at: http://127.0.0.1:8000 (14571)
+2014-04-23 14:51:13 [14571] [INFO] Using worker: sync
+2014-04-23 14:51:13 [14582] [INFO] Booting worker with pid: 14582
+2014-04-23 14:51:13 [14583] [INFO] Booting worker with pid: 14583
+2014-04-23 14:51:13 [14584] [INFO] Booting worker with pid: 14584
+Starting yoolotto as root
+2014-04-23 15:19:03 [15251] [INFO] Starting gunicorn 18.0
+2014-04-23 15:19:03 [15251] [INFO] Listening at: http://127.0.0.1:8000 (15251)
+2014-04-23 15:19:03 [15251] [INFO] Using worker: sync
+2014-04-23 15:19:03 [15262] [INFO] Booting worker with pid: 15262
+2014-04-23 15:19:03 [15263] [INFO] Booting worker with pid: 15263
+2014-04-23 15:19:03 [15264] [INFO] Booting worker with pid: 15264
+Starting yoolotto as root
+2014-04-23 15:19:22 [15267] [INFO] Starting gunicorn 18.0
+2014-04-23 15:19:22 [15267] [INFO] Listening at: http://127.0.0.1:8000 (15267)
+2014-04-23 15:19:22 [15267] [INFO] Using worker: sync
+2014-04-23 15:19:22 [15278] [INFO] Booting worker with pid: 15278
+2014-04-23 15:19:22 [15279] [INFO] Booting worker with pid: 15279
+2014-04-23 15:19:22 [15280] [INFO] Booting worker with pid: 15280
+Starting yoolotto as root
+2014-04-23 15:23:56 [15359] [INFO] Starting gunicorn 18.0
+2014-04-23 15:23:56 [15359] [INFO] Listening at: http://127.0.0.1:8000 (15359)
+2014-04-23 15:23:56 [15359] [INFO] Using worker: sync
+2014-04-23 15:23:56 [15370] [INFO] Booting worker with pid: 15370
+2014-04-23 15:23:56 [15371] [INFO] Booting worker with pid: 15371
+2014-04-23 15:23:56 [15372] [INFO] Booting worker with pid: 15372
+Starting yoolotto as root
+2014-04-23 15:29:57 [15423] [INFO] Starting gunicorn 18.0
+2014-04-23 15:29:57 [15423] [INFO] Listening at: http://127.0.0.1:8000 (15423)
+2014-04-23 15:29:57 [15423] [INFO] Using worker: sync
+2014-04-23 15:29:57 [15434] [INFO] Booting worker with pid: 15434
+2014-04-23 15:29:57 [15435] [INFO] Booting worker with pid: 15435
+2014-04-23 15:29:57 [15436] [INFO] Booting worker with pid: 15436
+Starting yoolotto as root
+2014-04-24 05:27:50 [17012] [INFO] Starting gunicorn 18.0
+2014-04-24 05:27:50 [17012] [INFO] Listening at: http://127.0.0.1:8000 (17012)
+2014-04-24 05:27:50 [17012] [INFO] Using worker: sync
+2014-04-24 05:27:50 [17023] [INFO] Booting worker with pid: 17023
+2014-04-24 05:27:50 [17024] [INFO] Booting worker with pid: 17024
+2014-04-24 05:27:50 [17025] [INFO] Booting worker with pid: 17025
+Starting yoolotto as root
+2014-04-24 05:37:10 [17080] [INFO] Starting gunicorn 18.0
+2014-04-24 05:37:10 [17080] [INFO] Listening at: http://127.0.0.1:8000 (17080)
+2014-04-24 05:37:10 [17080] [INFO] Using worker: sync
+2014-04-24 05:37:10 [17091] [INFO] Booting worker with pid: 17091
+2014-04-24 05:37:10 [17092] [INFO] Booting worker with pid: 17092
+2014-04-24 05:37:10 [17093] [INFO] Booting worker with pid: 17093
+Starting yoolotto as root
+2014-04-24 05:59:09 [17409] [INFO] Starting gunicorn 18.0
+2014-04-24 05:59:09 [17409] [INFO] Listening at: http://127.0.0.1:8000 (17409)
+2014-04-24 05:59:09 [17409] [INFO] Using worker: sync
+2014-04-24 05:59:09 [17420] [INFO] Booting worker with pid: 17420
+2014-04-24 05:59:09 [17421] [INFO] Booting worker with pid: 17421
+2014-04-24 05:59:09 [17422] [INFO] Booting worker with pid: 17422
+Starting yoolotto as root
+2014-04-24 07:28:50 [19156] [INFO] Starting gunicorn 18.0
+2014-04-24 07:28:50 [19156] [INFO] Listening at: http://127.0.0.1:8000 (19156)
+2014-04-24 07:28:50 [19156] [INFO] Using worker: sync
+2014-04-24 07:28:50 [19167] [INFO] Booting worker with pid: 19167
+2014-04-24 07:28:50 [19168] [INFO] Booting worker with pid: 19168
+2014-04-24 07:28:50 [19169] [INFO] Booting worker with pid: 19169
+Starting yoolotto as root
+2014-04-24 07:31:36 [19193] [INFO] Starting gunicorn 18.0
+2014-04-24 07:31:36 [19193] [INFO] Listening at: http://127.0.0.1:8000 (19193)
+2014-04-24 07:31:36 [19193] [INFO] Using worker: sync
+2014-04-24 07:31:36 [19204] [INFO] Booting worker with pid: 19204
+2014-04-24 07:31:36 [19205] [INFO] Booting worker with pid: 19205
+2014-04-24 07:31:36 [19206] [INFO] Booting worker with pid: 19206
+Starting yoolotto as root
+2014-04-24 08:06:02 [1548] [INFO] Starting gunicorn 18.0
+2014-04-24 08:06:02 [1548] [INFO] Listening at: http://127.0.0.1:8000 (1548)
+2014-04-24 08:06:02 [1548] [INFO] Using worker: sync
+2014-04-24 08:06:02 [1591] [INFO] Booting worker with pid: 1591
+2014-04-24 08:06:02 [1596] [INFO] Booting worker with pid: 1596
+2014-04-24 08:06:02 [1597] [INFO] Booting worker with pid: 1597
+Starting yoolotto as root
+2014-04-24 10:06:21 [2003] [INFO] Starting gunicorn 18.0
+2014-04-24 10:06:21 [2003] [INFO] Listening at: http://127.0.0.1:8000 (2003)
+2014-04-24 10:06:21 [2003] [INFO] Using worker: sync
+2014-04-24 10:06:21 [2014] [INFO] Booting worker with pid: 2014
+2014-04-24 10:06:21 [2015] [INFO] Booting worker with pid: 2015
+2014-04-24 10:06:21 [2016] [INFO] Booting worker with pid: 2016
+Starting yoolotto as root
+2014-04-24 10:40:05 [2701] [INFO] Starting gunicorn 18.0
+2014-04-24 10:40:05 [2701] [INFO] Listening at: http://127.0.0.1:8000 (2701)
+2014-04-24 10:40:05 [2701] [INFO] Using worker: sync
+2014-04-24 10:40:05 [2712] [INFO] Booting worker with pid: 2712
+2014-04-24 10:40:05 [2713] [INFO] Booting worker with pid: 2713
+2014-04-24 10:40:05 [2714] [INFO] Booting worker with pid: 2714
+Starting yoolotto as root
+2014-04-24 11:52:55 [3473] [INFO] Starting gunicorn 18.0
+2014-04-24 11:52:55 [3473] [INFO] Listening at: http://127.0.0.1:8000 (3473)
+2014-04-24 11:52:55 [3473] [INFO] Using worker: sync
+2014-04-24 11:52:55 [3484] [INFO] Booting worker with pid: 3484
+2014-04-24 11:52:56 [3485] [INFO] Booting worker with pid: 3485
+2014-04-24 11:52:56 [3486] [INFO] Booting worker with pid: 3486
+Starting yoolotto as root
+2014-04-24 11:59:54 [3551] [INFO] Starting gunicorn 18.0
+2014-04-24 11:59:54 [3551] [INFO] Listening at: http://127.0.0.1:8000 (3551)
+2014-04-24 11:59:54 [3551] [INFO] Using worker: sync
+2014-04-24 11:59:54 [3562] [INFO] Booting worker with pid: 3562
+2014-04-24 11:59:54 [3563] [INFO] Booting worker with pid: 3563
+2014-04-24 11:59:54 [3564] [INFO] Booting worker with pid: 3564
+Starting yoolotto as root
+2014-04-24 12:35:53 [4331] [INFO] Starting gunicorn 18.0
+2014-04-24 12:35:53 [4331] [INFO] Listening at: http://127.0.0.1:8000 (4331)
+2014-04-24 12:35:53 [4331] [INFO] Using worker: sync
+2014-04-24 12:35:53 [4342] [INFO] Booting worker with pid: 4342
+2014-04-24 12:35:53 [4343] [INFO] Booting worker with pid: 4343
+2014-04-24 12:35:53 [4344] [INFO] Booting worker with pid: 4344
+Starting yoolotto as root
+2014-04-24 13:02:11 [4789] [INFO] Starting gunicorn 18.0
+2014-04-24 13:02:11 [4789] [INFO] Listening at: http://127.0.0.1:8000 (4789)
+2014-04-24 13:02:11 [4789] [INFO] Using worker: sync
+2014-04-24 13:02:11 [4800] [INFO] Booting worker with pid: 4800
+2014-04-24 13:02:11 [4801] [INFO] Booting worker with pid: 4801
+2014-04-24 13:02:11 [4802] [INFO] Booting worker with pid: 4802
+Starting yoolotto as root
+2014-04-24 13:11:24 [4856] [INFO] Starting gunicorn 18.0
+2014-04-24 13:11:24 [4856] [INFO] Listening at: http://127.0.0.1:8000 (4856)
+2014-04-24 13:11:24 [4856] [INFO] Using worker: sync
+2014-04-24 13:11:24 [4867] [INFO] Booting worker with pid: 4867
+2014-04-24 13:11:24 [4868] [INFO] Booting worker with pid: 4868
+2014-04-24 13:11:24 [4869] [INFO] Booting worker with pid: 4869

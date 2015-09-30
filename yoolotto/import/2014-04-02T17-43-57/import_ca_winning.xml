@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<winnners_info>
+	<game game_id="101" game_name="Powerball" area="US" draw_date="2014-03-29" updated="2014-03-30 02:03:28">
+		<winners>
+			<match>5 of 5 + Powerball</match>
+			<prize>Jackpot</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5</match>
+			<prize>1000000</prize>
+			<num_winners>2</num_winners>
+				<location name="California">1</location>
+				<location name="West Virginia">1</location>
+		</winners>
+		<winners>
+			<match>4 of 5 + Powerball</match>
+			<prize>10000</prize>
+			<num_winners>22</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5</match>
+			<prize>100</prize>
+			<num_winners>832</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Powerball</match>
+			<prize>100</prize>
+			<num_winners>1,235</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5</match>
+			<prize>7</prize>
+			<num_winners>42,743</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Powerball</match>
+			<prize>7</prize>
+			<num_winners>19,455</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Powerball</match>
+			<prize>4</prize>
+			<num_winners>111,515</num_winners>
+		</winners>
+		<winners>
+			<match>Powerball Only</match>
+			<prize>4</prize>
+			<num_winners>203,280</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5 with Power Play</match>
+			<prize>2000000</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 + Powerball with Power Play</match>
+			<prize>40000</prize>
+			<num_winners>5</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 with Power Play</match>
+			<prize>200</prize>
+			<num_winners>204</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Powerball with Power Play</match>
+			<prize>200</prize>
+			<num_winners>312</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 with Power Play</match>
+			<prize>14</prize>
+			<num_winners>9,908</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Powerball with Power Play</match>
+			<prize>14</prize>
+			<num_winners>4,611</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Powerball with Power Play</match>
+			<prize>12</prize>
+			<num_winners>24,665</num_winners>
+		</winners>
+		<winners>
+			<match>Powerball Only with Power Play</match>
+			<prize>12</prize>
+			<num_winners>44,243</num_winners>
+		</winners>
+	</game>
+	<game game_id="101" game_name="Powerball" area="CA" draw_date="2014-03-29" updated="2014-03-30 00:36:09">
+		<winners>
+			<match>5 of 5 + Powerball</match>
+			<prize>50000000</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5</match>
+			<prize>782673</prize>
+			<num_winners>1</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 + Powerball</match>
+			<prize>6570</prize>
+			<num_winners>3</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5</match>
+			<prize>74</prize>
+			<num_winners>90</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Powerball</match>
+			<prize>82</prize>
+			<num_winners>127</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5</match>
+			<prize>5</prize>
+			<num_winners>4,602</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Powerball</match>
+			<prize>6</prize>
+			<num_winners>2,110</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Powerball</match>
+			<prize>3</prize>
+			<num_winners>12,536</num_winners>
+		</winners>
+		<winners>
+			<match>Powerball Only</match>
+			<prize>3</prize>
+			<num_winners>23,247</num_winners>
+		</winners>
+	</game>
+	<game game_id="113" game_name="MEGA Millions" area="US" draw_date="2014-04-01" updated="2014-04-02 03:53:41">
+		<winners>
+			<match>5 of 5 + Megaball</match>
+			<prize>Jackpot</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5</match>
+			<prize>1000000</prize>
+			<num_winners>3</num_winners>
+				<location name="Michigan">1</location>
+				<location name="North Carolina">1</location>
+				<location name="New Hampshire">1</location>
+		</winners>
+		<winners>
+			<match>4 of 5 + Megaball</match>
+			<prize>50000</prize>
+			<num_winners>10</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5</match>
+			<prize>500</prize>
+			<num_winners>236</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Megaball</match>
+			<prize>50</prize>
+			<num_winners>1,186</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5</match>
+			<prize>5</prize>
+			<num_winners>16,651</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Megaball</match>
+			<prize>5</prize>
+			<num_winners>29,160</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Megaball</match>
+			<prize>2</prize>
+			<num_winners>268,352</num_winners>
+		</winners>
+		<winners>
+			<match>Megaball Only</match>
+			<prize>1</prize>
+			<num_winners>746,446</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5 with Megaplier</match>
+			<prize>2000000</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 + Megaball with Megaplier</match>
+			<prize>100000</prize>
+			<num_winners>1</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 with Megaplier</match>
+			<prize>1000</prize>
+			<num_winners>26</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Megaball with Megaplier</match>
+			<prize>100</prize>
+			<num_winners>176</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 with Megaplier</match>
+			<prize>10</prize>
+			<num_winners>2,165</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Megaball with Megaplier</match>
+			<prize>10</prize>
+			<num_winners>3,914</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Megaball with Megaplier</match>
+			<prize>4</prize>
+			<num_winners>35,802</num_winners>
+		</winners>
+		<winners>
+			<match>Megaball Only with Megaplier</match>
+			<prize>2</prize>
+			<num_winners>99,041</num_winners>
+		</winners>
+	</game>
+	<game game_id="113" game_name="MEGA Millions" area="CA" draw_date="2014-04-01" updated="2014-04-02 00:42:09">
+		<winners>
+			<match>5 of 5 + Megaball</match>
+			<prize>20000000</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5</match>
+			<prize>113281</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 + Megaball</match>
+			<prize>8529</prize>
+			<num_winners>2</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5</match>
+			<prize>568</prize>
+			<num_winners>42</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Megaball</match>
+			<prize>63</prize>
+			<num_winners>184</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5</match>
+			<prize>9</prize>
+			<num_winners>2,720</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Megaball</match>
+			<prize>6</prize>
+			<num_winners>4,702</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Megaball</match>
+			<prize>2</prize>
+			<num_winners>44,702</num_winners>
+		</winners>
+		<winners>
+			<match>Megaball Only</match>
+			<prize>1</prize>
+			<num_winners>125,673</num_winners>
+		</winners>
+	</game>
+	<game game_id="CA1" game_name="SuperLotto Plus" area="CA" draw_date="2014-03-29" updated="2014-03-29 23:06:03">
+		<winners>
+			<match>5 of 5 + Mega Ball(Jackpot)</match>
+			<prize>39000000.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5</match>
+			<prize>27936.00</prize>
+			<num_winners>2</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 + Mega Ball</match>
+			<prize>1470.00</prize>
+			<num_winners>19</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5</match>
+			<prize>97.00</prize>
+			<num_winners>476</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Mega Ball</match>
+			<prize>47.00</prize>
+			<num_winners>881</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5</match>
+			<prize>10.00</prize>
+			<num_winners>20,036</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Mega Ball</match>
+			<prize>9.00</prize>
+			<num_winners>11,356</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Mega Ball</match>
+			<prize>1.00</prize>
+			<num_winners>54,542</num_winners>
+		</winners>
+		<winners>
+			<match>Mega Ball Only</match>
+			<prize>1.00</prize>
+			<num_winners>85,924</num_winners>
+		</winners>
+		<winners>
+			<match>Winners Location</match>
+			<num_winners>173,236</num_winners>
+		</winners>
+	</game>
+	<game game_id="CA2" game_name="Fantasy 5" area="CA" draw_date="2014-04-01" updated="2014-04-01 21:55:10">
+		<winners>
+			<match>5 of 5 (Jackpot)</match>
+			<prize>51000.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5</match>
+			<prize>428.00</prize>
+			<num_winners>107</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5</match>
+			<prize>16.00</prize>
+			<num_winners>3,573</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5</match>
+			<num_winners>39,017</num_winners>
+		</winners>
+		<winners>
+			<match>Winners Location</match>
+			<num_winners>42,697</num_winners>
+		</winners>
+	</game>
+	<game game_id="CAB" game_name="Daily 4" area="CA" draw_date="2014-04-01" updated="2014-04-01 21:58:03">
+		<winners>
+			<match>Straight</match>
+			<prize>5886.00</prize>
+			<num_winners>2</num_winners>
+		</winners>
+		<winners>
+			<match>Box</match>
+			<prize>234.00</prize>
+			<num_winners>22</num_winners>
+		</winners>
+		<winners>
+			<match>Straight and Box</match>
+			<prize>3061.00</prize>
+			<num_winners>5</num_winners>
+		</winners>
+		<winners>
+			<match>Box Only</match>
+			<prize>117.00</prize>
+			<num_winners>86</num_winners>
+		</winners>
+		<winners>
+			<match>Winners Location</match>
+			<num_winners>115</num_winners>
+		</winners>
+	</game>
+	<game game_id="CAC" game_name="Daily 3 Midday" area="CA" draw_date="2014-04-01" updated="2014-04-01 16:02:03">
+		<winners>
+			<match>Straight</match>
+			<prize>491.00</prize>
+			<num_winners>33</num_winners>
+		</winners>
+		<winners>
+			<match>Box</match>
+			<prize>78.00</prize>
+			<num_winners>88</num_winners>
+		</winners>
+		<winners>
+			<match>Straight and Box</match>
+			<prize>285.00</prize>
+			<num_winners>164</num_winners>
+		</winners>
+		<winners>
+			<match>Box Only</match>
+			<prize>39.00</prize>
+			<num_winners>644</num_winners>
+		</winners>
+		<winners>
+			<match>Winners Location</match>
+			<num_winners>929</num_winners>
+		</winners>
+	</game>
+	<game game_id="CAA" game_name="Daily 3 Evening" area="CA" draw_date="2014-04-01" updated="2014-04-01 23:15:02">
+		<winners>
+			<match>Straight</match>
+			<prize>419.00</prize>
+			<num_winners>77</num_winners>
+		</winners>
+		<winners>
+			<match>Box</match>
+			<prize>66.00</prize>
+			<num_winners>118</num_winners>
+		</winners>
+		<winners>
+			<match>Straight and Box</match>
+			<prize>243.00</prize>
+			<num_winners>167</num_winners>
+		</winners>
+		<winners>
+			<match>Box Only</match>
+			<prize>33.00</prize>
+			<num_winners>730</num_winners>
+		</winners>
+		<winners>
+			<match>Winners Location</match>
+			<num_winners>1,092</num_winners>
+		</winners>
+	</game>
+	<game game_id="CA3" game_name="Daily Derby" area="CA" draw_date="2014-04-01" updated="2014-04-01 21:55:09">
+		<winners>
+			<match>Trifecta and Race Time</match>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>Exacta and Race Time</match>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>Win and Race Time</match>
+			<prize>44.00</prize>
+			<num_winners>2</num_winners>
+		</winners>
+		<winners>
+			<match>Race Time Only</match>
+			<prize>41.00</prize>
+			<num_winners>27</num_winners>
+		</winners>
+		<winners>
+			<match>Trifecta</match>
+			<prize>359.00</prize>
+			<num_winners>24</num_winners>
+		</winners>
+		<winners>
+			<match>Exacta</match>
+			<prize>29.00</prize>
+			<num_winners>130</num_winners>
+		</winners>
+		<winners>
+			<match>Win</match>
+			<prize>3.00</prize>
+			<num_winners>1,929</num_winners>
+		</winners>
+		<winners>
+			<match>Winners Location</match>
+			<num_winners>2,112</num_winners>
+		</winners>
+	</game>
+</winnners_info>

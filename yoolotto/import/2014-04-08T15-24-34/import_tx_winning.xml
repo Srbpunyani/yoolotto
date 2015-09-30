@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<winnners_info>
+	<game game_id="101" game_name="Powerball" area="US" draw_date="2014-04-05" updated="2014-04-06 02:02:37">
+		<winners>
+			<match>5 of 5 + Powerball</match>
+			<prize>Jackpot</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5</match>
+			<prize>1000000</prize>
+			<num_winners>4</num_winners>
+				<location name="Arkansas">1</location>
+				<location name="New York">1</location>
+				<location name="Oregon">1</location>
+				<location name="Texas">1</location>
+		</winners>
+		<winners>
+			<match>4 of 5 + Powerball</match>
+			<prize>10000</prize>
+			<num_winners>13</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5</match>
+			<prize>100</prize>
+			<num_winners>685</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Powerball</match>
+			<prize>100</prize>
+			<num_winners>1,010</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5</match>
+			<prize>7</prize>
+			<num_winners>36,495</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Powerball</match>
+			<prize>7</prize>
+			<num_winners>17,758</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Powerball</match>
+			<prize>4</prize>
+			<num_winners>112,802</num_winners>
+		</winners>
+		<winners>
+			<match>Powerball Only</match>
+			<prize>4</prize>
+			<num_winners>213,583</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5 with Power Play</match>
+			<prize>2000000</prize>
+			<num_winners>1</num_winners>
+				<location name="New Mexico">1</location>
+		</winners>
+		<winners>
+			<match>4 of 5 + Powerball with Power Play</match>
+			<prize>40000</prize>
+			<num_winners>4</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 with Power Play</match>
+			<prize>200</prize>
+			<num_winners>142</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Powerball with Power Play</match>
+			<prize>200</prize>
+			<num_winners>218</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 with Power Play</match>
+			<prize>14</prize>
+			<num_winners>7,746</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Powerball with Power Play</match>
+			<prize>14</prize>
+			<num_winners>3,885</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Powerball with Power Play</match>
+			<prize>12</prize>
+			<num_winners>24,963</num_winners>
+		</winners>
+		<winners>
+			<match>Powerball Only with Power Play</match>
+			<prize>12</prize>
+			<num_winners>46,891</num_winners>
+		</winners>
+	</game>
+	<game game_id="101" game_name="Powerball" area="TX" draw_date="2014-04-05" updated="2014-04-06 00:27:03">
+	</game>
+	<game game_id="113" game_name="MEGA Millions" area="US" draw_date="2014-04-04" updated="2014-04-05 02:00:02">
+		<winners>
+			<match>5 of 5 + Megaball</match>
+			<prize>Jackpot</prize>
+			<num_winners>1</num_winners>
+				<location name="California">1</location>
+		</winners>
+		<winners>
+			<match>5 of 5</match>
+			<prize>1000000</prize>
+			<num_winners>2</num_winners>
+				<location name="California">1</location>
+				<location name="Georgia">1</location>
+		</winners>
+		<winners>
+			<match>4 of 5 + Megaball</match>
+			<prize>50000</prize>
+			<num_winners>24</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5</match>
+			<prize>500</prize>
+			<num_winners>317</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Megaball</match>
+			<prize>50</prize>
+			<num_winners>1,678</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5</match>
+			<prize>5</prize>
+			<num_winners>24,298</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Megaball</match>
+			<prize>5</prize>
+			<num_winners>38,323</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Megaball</match>
+			<prize>2</prize>
+			<num_winners>305,924</num_winners>
+		</winners>
+		<winners>
+			<match>Megaball Only</match>
+			<prize>1</prize>
+			<num_winners>760,085</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 5 with Megaplier</match>
+			<prize>2000000</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 + Megaball with Megaplier</match>
+			<prize>100000</prize>
+			<num_winners>2</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 5 with Megaplier</match>
+			<prize>1000</prize>
+			<num_winners>34</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 + Megaball with Megaplier</match>
+			<prize>100</prize>
+			<num_winners>205</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 5 with Megaplier</match>
+			<prize>10</prize>
+			<num_winners>3,319</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 5 + Megaball with Megaplier</match>
+			<prize>10</prize>
+			<num_winners>5,007</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 5 + Megaball with Megaplier</match>
+			<prize>4</prize>
+			<num_winners>39,111</num_winners>
+		</winners>
+		<winners>
+			<match>Megaball Only with Megaplier</match>
+			<prize>2</prize>
+			<num_winners>97,001</num_winners>
+		</winners>
+	</game>
+	<game game_id="113" game_name="MEGA Millions" area="TX" draw_date="2014-04-04" updated="2014-04-05 00:41:22">
+	</game>
+	<game game_id="TX1" game_name="Lotto" area="TX" draw_date="2014-04-05" updated="2014-04-05 23:36:02">
+		<winners>
+			<match>6 of 6</match>
+			<prize>22250000.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 6</match>
+			<prize>2212.00</prize>
+			<num_winners>16</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 6</match>
+			<prize>58.00</prize>
+			<num_winners>896</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 6</match>
+			<prize>3.00</prize>
+			<num_winners>18,962</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 6</match>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>5 of 6 w/Extra</match>
+			<prize>12212.00</prize>
+			<num_winners>6</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 6 w/Extra</match>
+			<prize>158.00</prize>
+			<num_winners>122</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 6 w/Extra</match>
+			<prize>13.00</prize>
+			<num_winners>2,697</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 6 w/Extra</match>
+			<prize>2.00</prize>
+			<num_winners>23,091</num_winners>
+		</winners>
+		<winners>
+			<match>Total Winners</match>
+			<num_winners>45,790</num_winners>
+		</winners>
+	</game>
+	<game game_id="TX2" game_name="Cash 5" area="TX" draw_date="2014-04-07" updated="2014-04-07 23:27:02">
+	</game>
+	<game game_id="TX3" game_name="Two Step" area="TX" draw_date="2014-04-07" updated="2014-04-07 23:37:04">
+		<winners>
+			<match>4 of 4 w/Bonus</match>
+			<prize>200000.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 4</match>
+			<prize>1551.00</prize>
+			<num_winners>8</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 4 w/Bonus</match>
+			<prize>47.00</prize>
+			<num_winners>32</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 4</match>
+			<prize>19.00</prize>
+			<num_winners>1,104</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 4 w/Bonus</match>
+			<prize>19.00</prize>
+			<num_winners>722</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 4 w/Bonus</match>
+			<prize>7.00</prize>
+			<num_winners>4,858</num_winners>
+		</winners>
+		<winners>
+			<match>0 of 4 w/Bonus</match>
+			<prize>5.00</prize>
+			<num_winners>8,340</num_winners>
+		</winners>
+		<winners>
+			<match>Total Winners</match>
+			<num_winners>15,064</num_winners>
+		</winners>
+	</game>
+	<game game_id="TXF" game_name="All or Nothing Morning" area="TX" draw_date="2014-04-08" updated="2014-04-08 11:18:10">
+		<winners>
+			<match>12 of 12</match>
+			<prize>250000.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>11 of 12</match>
+			<prize>500.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>10 of 12</match>
+			<prize>50.00</prize>
+			<num_winners>34</num_winners>
+		</winners>
+		<winners>
+			<match>9 of 12</match>
+			<prize>10.00</prize>
+			<num_winners>283</num_winners>
+		</winners>
+		<winners>
+			<match>8 of 12</match>
+			<prize>2.00</prize>
+			<num_winners>1,506</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 12</match>
+			<prize>2.00</prize>
+			<num_winners>1,412</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 12</match>
+			<prize>10.00</prize>
+			<num_winners>284</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 12</match>
+			<prize>50.00</prize>
+			<num_winners>25</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 12</match>
+			<prize>500.00</prize>
+			<num_winners>1</num_winners>
+		</winners>
+		<winners>
+			<match>0 of 12</match>
+			<prize>250000.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>Total Winners</match>
+			<num_winners>3,545</num_winners>
+		</winners>
+	</game>
+	<game game_id="TXG" game_name="All or Nothing Day" area="TX" draw_date="2014-04-07" updated="2014-04-07 13:38:04">
+	</game>
+	<game game_id="TXH" game_name="All or Nothing Evening" area="TX" draw_date="2014-04-07" updated="2014-04-08 11:14:11">
+		<winners>
+			<match>12 of 12</match>
+			<prize>250000.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>11 of 12</match>
+			<prize>500.00</prize>
+			<num_winners>1</num_winners>
+		</winners>
+		<winners>
+			<match>10 of 12</match>
+			<prize>50.00</prize>
+			<num_winners>34</num_winners>
+		</winners>
+		<winners>
+			<match>9 of 12</match>
+			<prize>10.00</prize>
+			<num_winners>439</num_winners>
+		</winners>
+		<winners>
+			<match>8 of 12</match>
+			<prize>2.00</prize>
+			<num_winners>2,161</num_winners>
+		</winners>
+		<winners>
+			<match>4 of 12</match>
+			<prize>2.00</prize>
+			<num_winners>2,095</num_winners>
+		</winners>
+		<winners>
+			<match>3 of 12</match>
+			<prize>10.00</prize>
+			<num_winners>396</num_winners>
+		</winners>
+		<winners>
+			<match>2 of 12</match>
+			<prize>50.00</prize>
+			<num_winners>30</num_winners>
+		</winners>
+		<winners>
+			<match>1 of 12</match>
+			<prize>500.00</prize>
+			<num_winners>2</num_winners>
+		</winners>
+		<winners>
+			<match>0 of 12</match>
+			<prize>250000.00</prize>
+			<num_winners>0</num_winners>
+		</winners>
+		<winners>
+			<match>Total Winners</match>
+			<num_winners>5,158</num_winners>
+		</winners>
+	</game>
+</winnners_info>

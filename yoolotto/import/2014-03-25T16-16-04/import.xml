@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<allgames>
+	<StateProv stateprov_name="Atlantic Canada" stateprov_id="AC" country="Canada">
+		<game game_id="201" game_name="Lotto 6/49">
+			<lastdraw_date>03/22/2014</lastdraw_date>
+			<lastdraw_numbers>03-06-12-14-25-28, Bonus: 36</lastdraw_numbers>
+			<nextdraw_date>03/26/2014</nextdraw_date>
+			<jackpot date="03/26/2014">5000000</jackpot>
+		</game>
+		<game game_id="205" game_name="Guaranteed Million Draw">
+			<lastdraw_date>03/22/2014</lastdraw_date>
+			<lastdraw_numbers>00439621-02</lastdraw_numbers>
+			<nextdraw_date>03/26/2014</nextdraw_date>
+		</game>
+		<game game_id="203" game_name="Lotto Max">
+			<lastdraw_date>03/21/2014</lastdraw_date>
+			<lastdraw_numbers>01-02-04-21-23-35-40, Bonus: 05</lastdraw_numbers>
+			<nextdraw_date>03/28/2014</nextdraw_date>
+			<jackpot date="03/28/2014">48000000</jackpot>
+		</game>
+		<game game_id="AC6" game_name="Atlantic 6/49">
+			<lastdraw_date>03/22/2014</lastdraw_date>
+			<lastdraw_numbers>05-06-13-20-26-31, Bonus: 24</lastdraw_numbers>
+			<nextdraw_date>03/26/2014</nextdraw_date>
+		</game>
+		<game game_id="AC8" game_name="Bucko">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>03-10-17-23-34</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+		</game>
+		<game game_id="AC5" game_name="Pik-4">
+			<lastdraw_date>03/22/2014</lastdraw_date>
+			<lastdraw_numbers>03-06-12-14-25-28</lastdraw_numbers>
+			<nextdraw_date>03/26/2014</nextdraw_date>
+		</game>
+		<game game_id="AC2" game_name="Keno Atlantic">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>06-13-14-15-17-18-20-29-31-37-39-40-41-47-48-54-57-59-63-69</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+		</game>
+		<game game_id="AC3" game_name="Tag">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>2-6-7-5-8-4</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+		</game>
+		<game game_id="ACS" game_name="Shabam">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>08-12-13-17-38</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+		</game>
+		<game game_id="AC9" game_name="Salso Bingo">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>O61-I25-B15-I28-G51-G48-B06-B08-N39-O71-B03-N33-I22-I16-O65-B13-G49-N43-G59-N41-O62-O74-I19-G47-I23-I26-I27-N31</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Arkansas" stateprov_id="AR" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>03/22/2014</lastdraw_date>
+			<lastdraw_numbers>13-28-31-55-58, Powerball: 15, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>03/26/2014</nextdraw_date>
+			<jackpot date="03/26/2014">40000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>03/21/2014</lastdraw_date>
+			<lastdraw_numbers>02-23-30-35-53, Mega Ball: 10</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+			<jackpot date="03/25/2014">20000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>03/21/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+		</game>
+		<game game_id="129" game_name="Decades of Dollars">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>01-03-10-30-36-41</lastdraw_numbers>
+			<nextdraw_date>03/27/2014</nextdraw_date>
+		</game>
+		<game game_id="AR1" game_name="Natural State Jackpot">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>04-08-26-31-37</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+			<jackpot date="03/25/2014">320000</jackpot>
+		</game>
+		<game game_id="ARD" game_name="Cash 4 Midday">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>7-9-2-6</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_date>
+		</game>
+		<game game_id="ARB" game_name="Cash 3 Midday">
+			<lastdraw_date>03/24/2014</lastdraw_date>
+			<lastdraw_numbers>9-3-8</lastdraw_numbers>
+			<nextdraw_date>03/25/2014</nextdraw_da

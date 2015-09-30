@@ -1,0 +1,395 @@
+-----------------------started [2014-05-12 12:48:37.735281]    Picked Game :DailyDerby
+        Picked Component :Daily Derby
+        search winning for component (Daily Derby) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :SuperLottoPlus
+        Picked Component :SuperLotto Plus
+        search winning for component (SuperLotto Plus) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :FantasyFive
+        Picked Component :Fantasy 5
+        search winning for component (Fantasy 5) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :CashFive
+        Picked Component :Cash 5
+        search winning for component (Cash 5) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :DailyFour
+        Picked Component :Daily 4 Night
+        search winning for component (Daily 4 Night) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        Picked Component :Daily 4 Evening
+        search winning for component (Daily 4 Evening) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        Picked Component :Daily 4 Day
+        search winning for component (Daily 4 Day) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        Picked Component :Daily 4 Morning
+        search winning for component (Daily 4 Morning) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+    Picked Game :Lotto
+        Picked Component :Lotto
+        search winning for component (Lotto) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :DailyThree
+        Picked Component :Daily 3 Evening
+        search winning for component (Daily 3 Evening) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        Picked Component :Daily 3 Midday
+        search winning for component (Daily 3 Midday) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :MegaMillions
+        Picked Component :MEGA Millions
+        search winning for component (MEGA Millions) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(NY) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(AR) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(AZ) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(CT) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(DC) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(DE) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(FL) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(GA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(IA) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(ID) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(IL) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(IN) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(KS) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(KY) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(LA) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(MA) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(MD) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(ME) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(MI) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(MO) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(NC) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(ND) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(NE) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(NH) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(NJ) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(NM) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(OH) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(OK) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(OR) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(PA) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(SC) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(SD) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(TN) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(VA) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(VT) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(WA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(WI) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(WV) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(RI) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(MN) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(MT) 
+        look in alternative state :US
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (MEGA Millions) ,state(CO) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        component winning is turned off :Megaplier
+    Picked Game :TwoStep
+        Picked Component :Two Step
+        search winning for component (Two Step) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :Powerball
+        Picked Component :Powerball
+        search winning for component (Powerball) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(NY) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(AR) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(AZ) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(CT) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(DC) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(DE) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(FL) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(GA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(IA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(ID) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(IL) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(IN) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(KS) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(KY) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(LA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(MA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(MD) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(ME) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(MI) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(MO) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(NC) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(ND) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(NE) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(NH) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(NJ) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(NM) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(OH) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(OK) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(OR) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(PA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(SC) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(SD) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(TN) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(VA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(VT) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(WA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(WI) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(WV) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(RI) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(MN) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(MT) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        search winning for component (Powerball) ,state(CO) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :PowerballCA
+        Picked Component :Powerball
+        search winning for component (Powerball) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :PickThree
+        Picked Component :Pick 3 Evening
+        search winning for component (Pick 3 Evening) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        Picked Component :Pick 3 Day
+        search winning for component (Pick 3 Day) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        Picked Component :Pick 3 Morning
+        search winning for component (Pick 3 Morning) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        Picked Component :Pick 3 Night
+        search winning for component (Pick 3 Night) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+    Picked Game :DailyFor
+        Picked Component :Daily 4
+        search winning for component (Daily 4) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :AllOrNothing
+        Picked Component :All or Nothing Night
+        search winning for component (All or Nothing Night) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        Picked Component :All or Nothing Day
+        search winning for component (All or Nothing Day) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        Picked Component :All or Nothing Morning
+        search winning for component (All or Nothing Morning) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+        Picked Component :All or Nothing Evening
+        search winning for component (All or Nothing Evening) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+    Picked Game :MegaMillionsCA
+        Picked Component :MEGA Millions
+        search winning for component (MEGA Millions) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :'NoneType' object has no attribute 'strip'
+-----------------------done----------------------

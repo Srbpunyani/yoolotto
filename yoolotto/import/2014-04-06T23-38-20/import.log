@@ -1,0 +1,16 @@
+Found Game {'comp_name': 'Powerball', 'comp_format': 'Powerball', 'game_format': 'Powerball', 'game_name': 'Powerball', 'comp_identifier': 'Powerball'}
+	Using Handler <class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+	[jackpot] Found Jackpot 80000000
+	[jackpot] Jackpot Date 2014-04-09
+
+	[last] last_draw_date 04/05/2014
+	[last] last_draw_numbers 11-21-26-33-34, Powerball: 29, Power Play: 5
+	[last] last_draw_date 2014-04-05
+	[last] draw id 5759, created: False 
+	[last] draw id 5759 SAVED
+	[last] {'date': '2014-04-05', 'jackpot': 70000000L, 'future': False, 'id': 5759L, 'result': [11, 21, 26, 33, 34, 29, 5]}
+	[last] Firing Notification: False
+	[last] Found Powerplay [5] 
+	[last] Creating Fake Powerplay Component with value [5] 
+	[last] Fake Powerplay Object Saved 27 
+	[last] Creating Powerplay Draw 

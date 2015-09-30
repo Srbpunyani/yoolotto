@@ -1,0 +1,129 @@
+-----------------------started [2015-08-01 12:03:52.665573]
+
+    Picked Game :DailyDerby
+        Picked Component :Daily Derby
+        search winning for component (Daily Derby) ,state(CA) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :SuperLottoPlus
+        Picked Component :SuperLotto Plus
+        search winning for component (SuperLotto Plus) ,state(CA) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :FantasyFive
+        Picked Component :Fantasy 5
+        search winning for component (Fantasy 5) ,state(CA) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :CashFive
+        Picked Component :Cash 5
+        search winning for component (Cash 5) ,state(TX) 
+        winnings available 
+        updating winnings failed ,exception :'int' object has no attribute 'replace'
+        ----------------------------------- 
+    Picked Game :DailyFour
+        Picked Component :Daily 4 Night
+        search winning for component (Daily 4 Night) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        ----------------------------------- 
+        Picked Component :Daily 4 Evening
+        search winning for component (Daily 4 Evening) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        ----------------------------------- 
+        Picked Component :Daily 4 Day
+        search winning for component (Daily 4 Day) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        ----------------------------------- 
+        Picked Component :Daily 4 Morning
+        search winning for component (Daily 4 Morning) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        ----------------------------------- 
+    Picked Game :Lotto
+        Picked Component :Lotto
+        search winning for component (Lotto) ,state(TX) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :DailyThree
+        Picked Component :Daily 3 Evening
+        search winning for component (Daily 3 Evening) ,state(CA) 
+        winnings available 
+        updating winnings failed ,exception :LotteryDraw matching query does not exist.
+        ----------------------------------- 
+        Picked Component :Daily 3 Midday
+        search winning for component (Daily 3 Midday) ,state(CA) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :MegaMillions
+        Picked Component :MEGA Millions
+        search winning for component (MEGA Millions) ,state(TX) 
+        winnings available 
+        ----------------------------------- 
+        component winning is turned off :Megaplier
+    Picked Game :TwoStep
+        Picked Component :Two Step
+        search winning for component (Two Step) ,state(TX) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :Powerball
+        Picked Component :Powerball
+        search winning for component (Powerball) ,state(TX) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :PowerballCA
+        Picked Component :Powerball
+        search winning for component (Powerball) ,state(CA) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :PickThree
+        Picked Component :Pick 3 Evening
+        search winning for component (Pick 3 Evening) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        ----------------------------------- 
+        Picked Component :Pick 3 Day
+        search winning for component (Pick 3 Day) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        ----------------------------------- 
+        Picked Component :Pick 3 Morning
+        search winning for component (Pick 3 Morning) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        ----------------------------------- 
+        Picked Component :Pick 3 Night
+        search winning for component (Pick 3 Night) ,state(TX) 
+        look in alternative state :
+        winnings not found 
+        ----------------------------------- 
+    Picked Game :DailyFor
+        Picked Component :Daily 4
+        search winning for component (Daily 4) ,state(CA) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :AllOrNothing
+        Picked Component :All or Nothing Night
+        search winning for component (All or Nothing Night) ,state(TX) 
+        winnings available 
+        ----------------------------------- 
+        Picked Component :All or Nothing Day
+        search winning for component (All or Nothing Day) ,state(TX) 
+        winnings available 
+        ----------------------------------- 
+        Picked Component :All or Nothing Morning
+        search winning for component (All or Nothing Morning) ,state(TX) 
+        winnings available 
+        ----------------------------------- 
+        Picked Component :All or Nothing Evening
+        search winning for component (All or Nothing Evening) ,state(TX) 
+        winnings available 
+        ----------------------------------- 
+    Picked Game :MegaMillionsCA
+        Picked Component :MEGA Millions
+        search winning for component (MEGA Millions) ,state(CA) 
+        winnings available 
+        ----------------------------------- 
+-----------------------done----------------------

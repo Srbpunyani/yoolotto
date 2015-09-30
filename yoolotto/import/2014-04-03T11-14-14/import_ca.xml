@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<allgames>
+	<StateProv stateprov_name="Atlantic Canada" stateprov_id="AC" country="Canada">
+		<game game_id="201" game_name="Lotto 6/49">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>09-11-32-36-38-40, Bonus: 26</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">5000000</jackpot>
+		</game>
+		<game game_id="205" game_name="Guaranteed Million Draw">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>55439511-01</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="203" game_name="Lotto Max">
+			<lastdraw_date>03/28/2014</lastdraw_date>
+			<lastdraw_numbers>08-15-16-21-31-37-39, Bonus: 20</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">10000000</jackpot>
+		</game>
+		<game game_id="AC6" game_name="Atlantic 6/49">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>09-12-25-33-40-46, Bonus: 37</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="AC8" game_name="Bucko">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-02-03-08-21</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="AC5" game_name="Pik-4">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>09-11-32-36-38-40</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="AC2" game_name="Keno Atlantic">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>03-06-07-14-20-21-23-26-28-31-34-38-41-48-49-51-53-54-65-68</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="AC3" game_name="Tag">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-3-7-5-4-8</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ACS" game_name="Shabam">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-03-06-20-21</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="AC9" game_name="Salso Bingo">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>N40-N35-G49-N38-G58-N42-I27-B11-O67-I26-I23-B07-N37-B02-B14-N32-G50-N44-I21-B10-G47-B12-O66-G53-I18-O68-O74-B13</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Arkansas" stateprov_id="AR" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="129" game_name="Decades of Dollars">
+			<lastdraw_date>03/31/2014</lastdraw_date>
+			<lastdraw_numbers>04-09-12-13-23-43</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="AR1" game_name="Natural State Jackpot">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>04-08-12-29-36</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">360000</jackpot>
+		</game>
+		<game game_id="ARD" game_name="Cash 4 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1-4-0-3</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ARB" game_name="Cash 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-0-2</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ARC" game_name="Cash 4 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>0-4-5-1</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ARA" game_name="Cash 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>4-7-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Arizona" stateprov_id="AZ" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="AZ3" game_name="The Pick">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>15-19-22-27-34-43</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">2500000</jackpot>
+		</game>
+		<game game_id="AZ2" game_name="Fantasy 5">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>03-12-26-28-37</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">54000</jackpot>
+		</game>
+		<game game_id="AZA" game_name="Pick 3">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-9-7</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="AZ6" game_name="Weekly Winnings">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>05-23-42-46</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="AZ5" game_name="2 BY 2">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>23-25-05-20</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="British Columbia" stateprov_id="BC" country="Canada">
+		<game game_id="201" game_name="Lotto 6/49">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>09-11-32-36-38-40, Bonus: 26</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">5000000</jackpot>
+		</game>
+		<game game_id="205" game_name="Guaranteed Million Draw">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>55439511-01</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="203" game_name="Lotto Max">
+			<lastdraw_date>03/28/2014</lastdraw_date>
+			<lastdraw_numbers>08-15-16-21-31-37-39, Bonus: 20</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">10000000</jackpot>
+		</game>
+		<game game_id="BC1" game_name="BC 49">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>04-26-27-34-41-49, Bonus: 37</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="BC2" game_name="Extra">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>20-60-74-76</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="California" stateprov_id="CA" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="CA1" game_name="SuperLotto Plus">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>07-08-23-37-42, Mega Ball: 23</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">44000000</jackpot>
+		</game>
+		<game game_id="CA2" game_name="Fantasy 5">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>12-17-23-32-33</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">52000</jackpot>
+		</game>
+		<game game_id="CAB" game_name="Daily 4">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>4-4-3-6</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="CAC" game_name="Daily 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1-1-1</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="CAA" game_name="Daily 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>7-4-0</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="CA3" game_name="Daily Derby">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1st:9 Winning Spirit-2nd:3 Hot Shot-3rd:7 Eureka, Race Time: 1:48.55</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">209000</jackpot>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Colorado " stateprov_id="CO" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="CO1" game_name="Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>21-24-29-30-35-38</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">4100000</jackpot>
+		</game>
+		<game game_id="CO2" game_name="Cash 5">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-08-12-18-26</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">20000</jackpot>
+		</game>
+		<game game_id="COA" game_name="Pick 3">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>6-9-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Connecticut" stateprov_id="CT" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="132" game_name="Lucky For Life">
+			<lastdraw_date>03/31/2014</lastdraw_date>
+			<lastdraw_numbers>01-18-19-23-36, Lucky Ball: 43</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="CT1" game_name="Lotto">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>17-29-32-40-43-44</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">1600000</jackpot>
+		</game>
+		<game game_id="CT2" game_name="Cash 5">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>04-06-16-34-35</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="CTC" game_name="Play4 Day">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1-6-4-7</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="CTA" game_name="Play3 Day">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1-7-6</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="CTD" game_name="Play4 Night">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>4-9-6-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="CTB" game_name="Play3 Night">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-4-3</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Dist. of Columbia" stateprov_id="DC" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="112" game_name="Hot Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>06-14-26-30-45, Hot Ball: 04</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">5160000</jackpot>
+		</game>
+		<game game_id="DCE" game_name="DC 5 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-6-0-0-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="DCC" game_name="DC 4 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-8-1-0</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="DCA" game_name="DC 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-9-3</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="DCF" game_name="DC 5 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1-8-7-5-9</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="DCD" game_name="DC 4 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>0-3-3-1</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="DCB" game_name="DC 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-3-0</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Delaware" stateprov_id="DE" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="112" game_name="Hot Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>06-14-26-30-45, Hot Ball: 04</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">5160000</jackpot>
+		</game>
+		<game game_id="DE2" game_name="Multi-Win Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-02-07-08-11-30</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">180000</jackpot>
+		</game>
+		<game game_id="DE3" game_name="Cash 5">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>06-10-16-24-31, Bonus: 06</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">47000</jackpot>
+		</game>
+		<game game_id="DEC" game_name="Play 4 Day">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>3-6-4-2</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="DEA" game_name="Play 3 Day">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-8-1</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="DED" game_name="Play 4 Night">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>8-7-8-7</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="DEB" game_name="Play 3 Night">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>6-8-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Euro Millions" stateprov_id="EM" country="">
+	</StateProv>
+	<StateProv stateprov_name="Florida" stateprov_id="FL" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="FL1" game_name="Lotto with XTRA">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>13-23-38-41-45-48</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">30000000</jackpot>
+		</game>
+		<game game_id="FL0" game_name="Lotto XTRA">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>02</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="FL3" game_name="Fantasy 5">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>03-10-17-18-28</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="FL4" game_name="Mega Money">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>23-25-35-42, Mega Ball: 21</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">700000</jackpot>
+		</game>
+		<game game_id="FLD" game_name="Play 4 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>4-8-8-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="FLC" game_name="Cash 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1-9-3</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="FLB" game_name="Play 4 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>8-0-1-8</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="FLA" game_name="Cash 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>3-8-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Georgia" stateprov_id="GA" country="U.S.A.">
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="125" game_name="Win For Life">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>06-13-18-32-34-42, Free Ball: 02</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="129" game_name="Decades of Dollars">
+			<lastdraw_date>03/31/2014</lastdraw_date>
+			<lastdraw_numbers>04-09-12-13-23-43</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GA2" game_name="Fantasy 5">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>16-20-26-27-32</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">100000</jackpot>
+		</game>
+		<game game_id="GAC" game_name="Cash 4 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-1-3-9</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GAA" game_name="Cash 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>4-2-1</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GAE" game_name="Georgia FIVE Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-1-3-8-4</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GAD" game_name="Cash 4 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>7-4-6-9</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GAB" game_name="Cash 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-9-8</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GAF" game_name="Georgia FIVE Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>0-2-8-3-4</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GA4" game_name="All or Nothing Morning">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>02-05-06-07-14-15-16-17-20-22-23-24</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GA5" game_name="All or Nothing Day">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-03-05-06-07-13-15-17-18-20-23-24</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GA6" game_name="All or Nothing Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>05-06-08-09-11-12-16-17-19-21-22-23</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="GA7" game_name="All or Nothing Night">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>02-05-06-07-08-13-14-16-19-20-22-24</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Iowa" stateprov_id="IA" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="112" game_name="Hot Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>06-14-26-30-45, Hot Ball: 04</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">5160000</jackpot>
+		</game>
+		<game game_id="IA3" game_name="All or Nothing Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-03-04-05-06-07-09-13-14-18-20-22</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="IA4" game_name="All or Nothing Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-02-04-08-11-14-17-18-19-20-21-23</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="120" game_name="Pick 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>6-5-6</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="122" game_name="Pick 4 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-3-0-7</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="121" game_name="Pick 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>9-4-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="123" game_name="Pick 4 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-7-0-2</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Idaho" stateprov_id="ID" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="112" game_name="Hot Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>06-14-26-30-45, Hot Ball: 04</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">5160000</jackpot>
+		</game>
+		<game game_id="104" game_name="Wild Card">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>07-08-11-15-17, Wild Card: AS</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">460000</jackpot>
+		</game>
+		<game game_id="ID3" game_name="Weekly Grand">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-02-03-04-29</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="IDB" game_name="Pick 3 Day">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-8-3</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="IDA" game_name="Pick 3 Night">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>9-6-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Irish" stateprov_id="IE" country="United Kingdom">
+		<game game_id="801" game_name="EuroMillions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>16-18-26-38-44, Lucky Stars: 08-10</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">12000000</jackpot>
+		</game>
+		<game game_id="IE0" game_name="Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>24-32-33-34-38-39, Bonus: 43</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">6000000</jackpot>
+		</game>
+		<game game_id="IE1" game_name="Lotto Plus 1">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>02-16-27-29-33-45, Bonus: 40</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="IE2" game_name="Lotto Plus 2">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>09-19-20-30-39-42, Bonus: 02</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+		</game>
+		<game game_id="IEP" game_name="EuroMillion Plus">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>03-12-19-23-38</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Illinois" stateprov_id="IL" country="U.S.A.">
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="IL4" game_name="Lotto">
+			<lastdraw_date>03/31/2014</lastdraw_date>
+			<lastdraw_numbers>03-20-35-37-39-45, Extra Shot: 02</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">19500000</jackpot>
+		</game>
+		<game game_id="IL5" game_name="LuckyDay Lotto Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>03-06-08-29-38</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="08/11/2013">200000</jackpot>
+		</game>
+		<game game_id="122" game_name="Pick 4 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-3-0-7</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILI" game_name="Midday 4 Fireball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="120" game_name="Pick 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>6-5-6</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILG" game_name="Midday 3 Fireball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILE" game_name="My 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>7-8-1</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="IL3" game_name="LuckyDay Lotto Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>03-07-21-27-28</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">100000</jackpot>
+		</game>
+		<game game_id="123" game_name="Pick 4 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-7-0-2</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILJ" game_name="Evening 4 Fireball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>8</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="121" game_name="Pick 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>9-4-5</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILH" game_name="Evening 3 Fireball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>3</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILF" game_name="My 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>9-1-6</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILW" game_name="Hit or Miss Morning">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-04-09-10-11-13-14-15-16-17-19-23, GLN : 03</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILX" game_name="Hit or Miss Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-03-04-05-06-10-12-14-17-18-22-23, GLN : 03</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILY" game_name="Hit or Miss Drive">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-06-09-10-12-13-14-15-18-19-20-24, GLN : 04</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="ILZ" game_name="Hit or Miss Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>03-05-06-08-10-16-17-18-19-20-21-23, GLN : 01</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Indiana" stateprov_id="IN" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="IN1" game_name="Hoosier Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>13-14-23-25-31-35</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">22500000</jackpot>
+		</game>
+		<game game_id="IN6" game_name="Mix and Match">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>01-15-32-46-50</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="IN8" game_name="Cash 5">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>07-08-19-21-36</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+			<jackpot date="04/03/2014">75000</jackpot>
+		</game>
+		<game game_id="IN9" game_name="Quick Draw Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>01-02-05-07-10-14-17-31-35-39-41-42-46-50-51-52-55-64-72-80</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="IN7" game_name="Quick Draw Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>02-07-09-10-13-16-17-18-23-25-26-34-48-52-62-69-71-74-75-77</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="INC" game_name="Daily 4 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>0-2-0-8</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="INA" game_name="Daily 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>5-9-4</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="IND" game_name="Daily 4 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>3-6-7-4</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="INB" game_name="Daily 3 Evening">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>1-0-8</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="INP" game_name="Poker Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>KC-2C-3C-9H-10S</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Kansas" stateprov_id="KS" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="112" game_name="Hot Lotto">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>06-14-26-30-45, Hot Ball: 04</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">5160000</jackpot>
+		</game>
+		<game game_id="KS3" game_name="Super Cash">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>02-05-16-22-32, Cash Ball: 12</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">300000</jackpot>
+		</game>
+		<game game_id="114" game_name="2 By 2">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>15-16-18-24</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="KSA" game_name="Pick 3">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>4-9-6</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+	</StateProv>
+	<StateProv stateprov_name="Kentucky" stateprov_id="KY" country="U.S.A.">
+		<game game_id="101" game_name="Powerball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>08-13-19-22-53, Powerball: 24, Power Play: 2</lastdraw_numbers>
+			<nextdraw_date>04/05/2014</nextdraw_date>
+			<jackpot date="04/05/2014">70000000</jackpot>
+		</game>
+		<game game_id="113" game_name="MEGA Millions">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>10-23-68-74-75, Mega Ball: 09</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+			<jackpot date="04/04/2014">30000000</jackpot>
+		</game>
+		<game game_id="141" game_name="Megaplier">
+			<lastdraw_date>04/01/2014</lastdraw_date>
+			<lastdraw_numbers>5</lastdraw_numbers>
+			<nextdraw_date>04/04/2014</nextdraw_date>
+		</game>
+		<game game_id="129" game_name="Decades of Dollars">
+			<lastdraw_date>03/31/2014</lastdraw_date>
+			<lastdraw_numbers>04-09-12-13-23-43</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="KY1" game_name="Cash Ball">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>09-27-30-32, Cash Ball: 10</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="KYE" game_name="Cash Ball Kicker">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>2-3-7-8-4</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="KYF" game_name="5 Card Cash">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>JH-7C-9C-5H-10H</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="KYC" game_name="Pick 4 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>6-8-4-6</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>
+		</game>
+		<game game_id="KYA" game_name="Pick 3 Midday">
+			<lastdraw_date>04/02/2014</lastdraw_date>
+			<lastdraw_numbers>6-4-6</lastdraw_numbers>
+			<nextdraw_date>04/03/2014</nextdraw_date>

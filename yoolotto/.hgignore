@@ -1,0 +1,24 @@
+syntax: glob
+*.pyc
+*.pyo
+*.db
+.DS_Store
+.coverage
+pyenv/
+import/*
+yoolotto/lottery/data/*
+cert/*
+media/*
+deploy/version.json
+celerybeat-schedule.db
+settings_local.py
+yoolotto/.codeintel/
+*.log
+yoolotto/logs/
+yoolotto.sublime-project
+yoolotto.sublime-workspace
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db

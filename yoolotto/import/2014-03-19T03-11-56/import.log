@@ -1,0 +1,372 @@
+Found Game {'comp_name': 'Powerball', 'comp_format': 'Powerball', 'game_format': 'Powerball', 'game_name': 'Powerball', 'comp_identifier': 'Powerball'}
+	Using Handler <class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+	[jackpot] Found Jackpot 80000000
+	[jackpot] Jackpot Date 2014-03-19
+
+	[last] last_draw_date 03/15/2014
+	[last] last_draw_numbers 02-05-34-51-58, Powerball: 09, Power Play: 4
+	[last] last_draw_date 2014-03-15
+	[last] draw id 5513, created: False 
+	[last] draw id 5513 SAVED
+	[last] {'date': '2014-03-15', 'jackpot': 70000000L, 'future': False, 'id': 5513L, 'result': [2, 5, 34, 51, 58, 9, 4]}
+	[last] Firing Notification: False
+	[last] Found Powerplay [4] 
+	[last] Creating Fake Powerplay Component with value [4] 
+	[last] Fake Powerplay Object Saved 27 
+	[last] Creating Powerplay Draw 
+	[last] Powerplay Object Saved 5519 
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5067, created: False 
+	[next] draw prize 80000000
+	[next] {'date': '2014-03-19', 'jackpot': 80000000, 'future': True, 'id': 5067L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'MEGA Millions', 'comp_format': 'MegaMillions', 'game_format': 'MegaMillions', 'game_name': 'Mega Millions', 'comp_identifier': 'MegaMillions'}
+	Using Handler <class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+	[jackpot] Found Jackpot 400000000
+	[jackpot] Jackpot Date 2014-03-18
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 11-19-24-33-51, Mega Ball: 07
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5102, created: False 
+	[last] draw id 5102 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': 400000000, 'future': False, 'id': 5102L, 'result': [11, 19, 24, 33, 51, 7, None]}
+	[last] Firing Notification: True
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/21/2014
+	[next] next_draw_date 2014-03-21
+	[next] draw id 5664, created: True 
+	[next] {'date': '2014-03-21', 'jackpot': None, 'future': True, 'id': 5664L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Megaplier', 'comp_format': 'Megaplier', 'game_format': 'MegaMillions', 'game_name': 'Mega Millions', 'comp_identifier': 'Megaplier'}
+	Using Handler <class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 3
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5461, created: False 
+	[last] draw id 5461 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': None, 'future': False, 'id': 5461L, 'result': [3]}
+	[last] Firing Notification: True
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/21/2014
+	[next] next_draw_date 2014-03-21
+	[next] draw id 5665, created: True 
+	[next] {'date': '2014-03-21', 'jackpot': None, 'future': True, 'id': 5665L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Lotto', 'comp_format': 'Lotto', 'game_format': 'Lotto', 'game_name': 'Lotto Texas', 'comp_identifier': 'LottoTexas'}
+	Using Handler <class 'yoolotto.lottery.game.lottotexas.LottoTexasGame'>
+	[jackpot] Found Jackpot 17250000
+	[jackpot] Jackpot Date 2014-03-19
+
+	[last] last_draw_date 03/15/2014
+	[last] last_draw_numbers 04-18-23-33-37-39
+	[last] last_draw_date 2014-03-15
+	[last] draw id 5035, created: False 
+	[last] draw id 5035 SAVED
+	[last] {'date': '2014-03-15', 'jackpot': 16750000L, 'future': False, 'id': 5035L, 'result': [4, 18, 23, 33, 37, 39]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5456, created: False 
+	[next] draw prize 17250000
+	[next] {'date': '2014-03-19', 'jackpot': 17250000, 'future': True, 'id': 5456L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Cash 5', 'comp_format': 'CashFive', 'game_format': 'CashFive', 'game_name': 'Cash Five', 'comp_identifier': 'CashFive'}
+	Using Handler <class 'yoolotto.lottery.game.cashfive.CashFiveGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/17/2014
+	[last] last_draw_numbers 02-19-20-29-37
+	[last] last_draw_date 2014-03-17
+	[last] draw id 5361, created: False 
+	[last] draw id 5361 SAVED
+	[last] {'date': '2014-03-17', 'jackpot': None, 'future': False, 'id': 5361L, 'result': [2, 19, 20, 29, 37]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/18/2014
+	[next] next_draw_date 2014-03-18
+	[next] draw id 5608, created: False 
+	[next] {'date': '2014-03-18', 'jackpot': None, 'future': True, 'id': 5608L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Two Step', 'comp_format': 'TwoStep', 'game_format': 'TwoStep', 'game_name': 'Two Step', 'comp_identifier': 'TwoStep'}
+	Using Handler <class 'yoolotto.lottery.game.twostep.TwoStepGame'>
+	[jackpot] Found Jackpot 200000
+	[jackpot] Jackpot Date 2014-03-20
+
+	[last] last_draw_date 03/17/2014
+	[last] last_draw_numbers 11-16-20-32, Bonus: 27
+	[last] last_draw_date 2014-03-17
+	[last] draw id 5462, created: False 
+	[last] draw id 5462 SAVED
+	[last] {'date': '2014-03-17', 'jackpot': 600000L, 'future': False, 'id': 5462L, 'result': [11, 16, 20, 32, 27]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/20/2014
+	[next] next_draw_date 2014-03-20
+	[next] draw id 5609, created: False 
+	[next] draw prize 200000
+	[next] {'date': '2014-03-20', 'jackpot': 200000, 'future': True, 'id': 5609L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'All or Nothing Morning', 'comp_format': 'AllOrNothing', 'game_format': 'AllOrNothing', 'game_name': 'All or Nothing', 'comp_identifier': 'AllOrNothingMorning'}
+	Using Handler <class 'yoolotto.lottery.game.allornothing.AllOrNothingGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 04-07-10-12-13-14-16-17-18-21-22-24
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5634, created: False 
+	[last] draw id 5634 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': 250000, 'future': False, 'id': 5634L, 'result': [4, 7, 10, 12, 13, 14, 16, 17, 18, 21, 22, 24]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5635, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5635L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'All or Nothing Day', 'comp_format': 'AllOrNothing', 'game_format': 'AllOrNothing', 'game_name': 'All or Nothing', 'comp_identifier': 'AllOrNothingDay'}
+	Using Handler <class 'yoolotto.lottery.game.allornothing.AllOrNothingGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 01-04-05-07-09-12-15-16-19-22-23-24
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5640, created: False 
+	[last] draw id 5640 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': 250000, 'future': False, 'id': 5640L, 'result': [1, 4, 5, 7, 9, 12, 15, 16, 19, 22, 23, 24]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5641, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5641L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'All or Nothing Evening', 'comp_format': 'AllOrNothing', 'game_format': 'AllOrNothing', 'game_name': 'All or Nothing', 'comp_identifier': 'AllOrNothingEvening'}
+	Using Handler <class 'yoolotto.lottery.game.allornothing.AllOrNothingGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 04-05-08-09-14-15-16-17-18-19-21-23
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5649, created: False 
+	[last] draw id 5649 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': 250000, 'future': False, 'id': 5649L, 'result': [4, 5, 8, 9, 14, 15, 16, 17, 18, 19, 21, 23]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5650, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5650L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'All or Nothing Night', 'comp_format': 'AllOrNothing', 'game_format': 'AllOrNothing', 'game_name': 'All or Nothing', 'comp_identifier': 'AllOrNothingNight'}
+	Using Handler <class 'yoolotto.lottery.game.allornothing.AllOrNothingGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/17/2014
+	[last] last_draw_numbers 02-03-04-07-09-11-13-14-19-20-23-24
+	[last] last_draw_date 2014-03-17
+	[last] draw id 5532, created: False 
+	[last] draw id 5532 SAVED
+	[last] {'date': '2014-03-17', 'jackpot': 250000, 'future': False, 'id': 5532L, 'result': [2, 3, 4, 7, 9, 11, 13, 14, 19, 20, 23, 24]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/18/2014
+	[next] next_draw_date 2014-03-18
+	[next] draw id 5610, created: False 
+	[next] {'date': '2014-03-18', 'jackpot': None, 'future': True, 'id': 5610L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Daily 4 Morning', 'comp_format': 'DailyFour', 'game_format': 'DailyFour', 'game_name': 'Daily Four', 'comp_identifier': 'DailyFourMorning'}
+	Using Handler <class 'yoolotto.lottery.game.dailyfour.DailyFourGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 3-8-2-8
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5636, created: False 
+	[last] draw id 5636 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': None, 'future': False, 'id': 5636L, 'result': [3, 8, 2, 8, 21]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5637, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5637L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Daily 4 Day', 'comp_format': 'DailyFour', 'game_format': 'DailyFour', 'game_name': 'Daily Four', 'comp_identifier': 'DailyFourDay'}
+	Using Handler <class 'yoolotto.lottery.game.dailyfour.DailyFourGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 1-6-7-6
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5642, created: False 
+	[last] draw id 5642 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': None, 'future': False, 'id': 5642L, 'result': [1, 6, 7, 6, 20]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5643, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5643L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Daily 4 Evening', 'comp_format': 'DailyFour', 'game_format': 'DailyFour', 'game_name': 'Daily Four', 'comp_identifier': 'DailyFourEvening'}
+	Using Handler <class 'yoolotto.lottery.game.dailyfour.DailyFourGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 6-5-2-1
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5651, created: False 
+	[last] draw id 5651 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': None, 'future': False, 'id': 5651L, 'result': [6, 5, 2, 1, 14]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5652, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5652L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Daily 4 Night', 'comp_format': 'DailyFour', 'game_format': 'DailyFour', 'game_name': 'Daily Four', 'comp_identifier': 'DailyFourNight'}
+	Using Handler <class 'yoolotto.lottery.game.dailyfour.DailyFourGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/17/2014
+	[last] last_draw_numbers 5-9-1-5
+	[last] last_draw_date 2014-03-17
+	[last] draw id 5540, created: False 
+	[last] draw id 5540 SAVED
+	[last] {'date': '2014-03-17', 'jackpot': None, 'future': False, 'id': 5540L, 'result': [5, 9, 1, 5, 20]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/18/2014
+	[next] next_draw_date 2014-03-18
+	[next] draw id 5611, created: False 
+	[next] {'date': '2014-03-18', 'jackpot': None, 'future': True, 'id': 5611L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Pick 3 Morning', 'comp_format': 'PickThree', 'game_format': 'PickThree', 'game_name': 'Pick Three', 'comp_identifier': 'PickThreeMorning'}
+	Using Handler <class 'yoolotto.lottery.game.pickthree.PickThreeGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 7-4-4
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5638, created: False 
+	[last] draw id 5638 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': None, 'future': False, 'id': 5638L, 'result': [7, 4, 4, 15]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5639, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5639L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Pick 3 Day', 'comp_format': 'PickThree', 'game_format': 'PickThree', 'game_name': 'Pick Three', 'comp_identifier': 'PickThreeDay'}
+	Using Handler <class 'yoolotto.lottery.game.pickthree.PickThreeGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 1-2-7
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5644, created: False 
+	[last] draw id 5644 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': None, 'future': False, 'id': 5644L, 'result': [1, 2, 7, 10]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5645, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5645L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Pick 3 Evening', 'comp_format': 'PickThree', 'game_format': 'PickThree', 'game_name': 'Pick Three', 'comp_identifier': 'PickThreeEvening'}
+	Using Handler <class 'yoolotto.lottery.game.pickthree.PickThreeGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/18/2014
+	[last] last_draw_numbers 5-0-1
+	[last] last_draw_date 2014-03-18
+	[last] draw id 5653, created: False 
+	[last] draw id 5653 SAVED
+	[last] {'date': '2014-03-18', 'jackpot': None, 'future': False, 'id': 5653L, 'result': [5, 0, 1, 6]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/19/2014
+	[next] next_draw_date 2014-03-19
+	[next] draw id 5654, created: False 
+	[next] {'date': '2014-03-19', 'jackpot': None, 'future': True, 'id': 5654L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Pick 3 Night', 'comp_format': 'PickThree', 'game_format': 'PickThree', 'game_name': 'Pick Three', 'comp_identifier': 'PickThreeNight'}
+	Using Handler <class 'yoolotto.lottery.game.pickthree.PickThreeGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 03/17/2014
+	[last] last_draw_numbers 0-8-9
+	[last] last_draw_date 2014-03-17
+	[last] draw id 5548, created: False 
+	[last] draw id 5548 SAVED
+	[last] {'date': '2014-03-17', 'jackpot': None, 'future': False, 'id': 5548L, 'result': [0, 8, 9, 17]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 03/18/2014
+	[next] next_draw_date 2014-03-18
+	[next] draw id 5612, created: False 
+	[next] {'date': '2014-03-18', 'jackpot': None, 'future': True, 'id': 5612L, 'result': None}
+
+-----------------------------------------
+

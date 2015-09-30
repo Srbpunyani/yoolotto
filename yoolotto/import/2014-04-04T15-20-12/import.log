@@ -1,0 +1,94 @@
+Found Game {'comp_name': 'Powerball', 'comp_format': 'Powerball', 'game_format': 'Powerball', 'game_name': 'Powerball', 'comp_identifier': 'Powerball'}
+	Using Handler <class 'yoolotto.lottery.game.powerball.PowerBallGame'>
+	[jackpot] Found Jackpot 70000000
+	[jackpot] Jackpot Date 2014-04-05
+
+	[last] last_draw_date 04/02/2014
+	[last] last_draw_numbers 08-13-19-22-53, Powerball: 24, Power Play: 2
+	[last] last_draw_date 2014-04-02
+	[last] draw id 5308, created: False 
+	[last] draw id 5308 SAVED
+	[last] {'date': '2014-04-02', 'jackpot': 60000000L, 'future': False, 'id': 5308L, 'result': [8, 13, 19, 22, 53, 24, 2]}
+	[last] Firing Notification: False
+	[last] Found Powerplay [2] 
+	[last] Creating Fake Powerplay Component with value [2] 
+	[last] Fake Powerplay Object Saved 27 
+	[last] Creating Powerplay Draw 
+	[last] Powerplay Object Saved 6622 
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 04/05/2014
+	[next] next_draw_date 2014-04-05
+	[next] draw id 5759, created: False 
+	[next] draw prize 70000000
+	[next] {'date': '2014-04-05', 'jackpot': 70000000, 'future': True, 'id': 5759L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'MEGA Millions', 'comp_format': 'MegaMillions', 'game_format': 'MegaMillions', 'game_name': 'Mega Millions', 'comp_identifier': 'MegaMillions'}
+	Using Handler <class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+	[jackpot] Found Jackpot 30000000
+	[jackpot] Jackpot Date 2014-04-04
+
+	[last] last_draw_date 04/01/2014
+	[last] last_draw_numbers 10-23-68-74-75, Mega Ball: 09
+	[last] last_draw_date 2014-04-01
+	[last] draw id 5258, created: False 
+	[last] draw id 5258 SAVED
+	[last] {'date': '2014-04-01', 'jackpot': 20000000L, 'future': False, 'id': 5258L, 'result': [10, 23, 68, 74, 75, 9, 5]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 04/04/2014
+	[next] next_draw_date 2014-04-04
+	[next] draw id 5319, created: False 
+	[next] draw prize 30000000
+	[next] {'date': '2014-04-04', 'jackpot': 30000000, 'future': True, 'id': 5319L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Megaplier', 'comp_format': 'Megaplier', 'game_format': 'MegaMillions', 'game_name': 'Mega Millions', 'comp_identifier': 'Megaplier'}
+	Using Handler <class 'yoolotto.lottery.game.megamillions.MegaMillionsGame'>
+	[jackpot] No Jackpot
+
+	[last] last_draw_date 04/01/2014
+	[last] last_draw_numbers 5
+	[last] last_draw_date 2014-04-01
+	[last] draw id 5693, created: False 
+	[last] draw id 5693 SAVED
+	[last] {'date': '2014-04-01', 'jackpot': None, 'future': False, 'id': 5693L, 'result': [5]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 04/04/2014
+	[next] next_draw_date 2014-04-04
+	[next] draw id 5743, created: False 
+	[next] {'date': '2014-04-04', 'jackpot': None, 'future': True, 'id': 5743L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Lotto', 'comp_format': 'Lotto', 'game_format': 'Lotto', 'game_name': 'Lotto Texas', 'comp_identifier': 'LottoTexas'}
+	Using Handler <class 'yoolotto.lottery.game.lottotexas.LottoTexasGame'>
+	[jackpot] Found Jackpot 22250000
+	[jackpot] Jackpot Date 2014-04-05
+
+	[last] last_draw_date 04/02/2014
+	[last] last_draw_numbers 04-27-32-37-40-53
+	[last] last_draw_date 2014-04-02
+	[last] draw id 5660, created: False 
+	[last] draw id 5660 SAVED
+	[last] {'date': '2014-04-02', 'jackpot': 21000000L, 'future': False, 'id': 5660L, 'result': [4, 27, 32, 37, 40, 53]}
+	[last] Firing Notification: False
+
+	[next] Processing NEXT Draw
+	[next] next_draw_date 04/05/2014
+	[next] next_draw_date 2014-04-05
+	[next] draw id 5377, created: False 
+	[next] draw prize 22250000
+	[next] {'date': '2014-04-05', 'jackpot': 22250000, 'future': True, 'id': 5377L, 'result': None}
+
+-----------------------------------------
+
+Found Game {'comp_name': 'Cash 5', 'comp_format': 'CashFive', 'game_format': 'CashFive', 'game_name': 'Cash Five', 'comp_identifier': 'CashFive'}
+	Using Handler <class 'yoolotto.lottery.game.cashfive.CashFiveGame'>
+	[jackpot] No Jack

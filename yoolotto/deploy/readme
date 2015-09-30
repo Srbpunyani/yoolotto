@@ -1,0 +1,13 @@
+production root dir               /home/ubuntu/current/yobackend/yoolotto
+bin/actviate dir                  /home/ubuntu/current/yobackend/bin/activate
+
+
+cp yoolotto.conf to /etc/supervisor/conf.d/  
+cp yoolotto.nx to /etc/nginx/sites-available
+
+
+reread and update the latest conf of supervisor
+$ sudo supervisorctl reread# auto start
+$ sudo supervisorctl update
+
+
